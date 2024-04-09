@@ -1,0 +1,975 @@
+[
+    {
+        "specialCategoryName": "Zimmerreinigungsliste",
+        "categories": [
+            {
+                "categoryName": "Reinigung des Schlafzimmers",
+                "tasks": [
+                    {
+                        "text": "Kissen waschen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Decken waschen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bettwäsche wechseln",
+                        "award": 1
+                    },
+                    {
+                        "text": "Möbel und Geräte abstauben",
+                        "award": 2
+                    },
+                    {
+                        "text": "Boden saugen oder fegen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Fenster und Jalousien oder Vorhänge waschen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Spiegel und Glas reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Schrank und Nachttisch organisieren",
+                        "award": 3
+                    },
+                    {
+                        "text": "Schmutzige/Saubere Kleidung verstauen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Mülleimer leeren und austauschen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Deckenventilatoren und Leuchten abstauben",
+                        "award": 5
+                    },
+                    {
+                        "text": "Fernseher reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Raum deodorisieren",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Reinigung des Kinderzimmers",
+                "tasks": [
+                    {
+                        "text": "Bettlaken und Kissenbezüge wechseln",
+                        "award": 2
+                    },
+                    {
+                        "text": "Boden kehren, wischen oder staubsaugen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Kleiderschrank aufräumen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Unter dem Bett reinigen",
+                        "award": 1
+                    },
+                    {
+                        "text": "Spiegel putzen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Möbel und Oberflächen abwischen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Leuchten abwischen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Jalousien abwischen/Staubvorhänge entfernen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Teppiche und Decken ausschütteln",
+                        "award": 2
+                    },
+                    {
+                        "text": "Deckenventilatoren überprüfen und reinigen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Klimaanlagenfilter überprüfen und reinigen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Spielzeug desinfizieren oder waschen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Mülleimer leeren und austauschen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Raum deodorisieren",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Reinigung des Badezimmers",
+                "tasks": [
+                    {
+                        "text": "Oberflächen frei machen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Spiegel und Glas reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Toilette schrubben",
+                        "award": 5
+                    },
+                    {
+                        "text": "Waschbecken schrubben",
+                        "award": 4
+                    },
+                    {
+                        "text": "Dusche/Badewanne schrubben",
+                        "award": 3
+                    },
+                    {
+                        "text": "Mülleimer leeren und austauschen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Handtücher wechseln",
+                        "award": 1
+                    },
+                    {
+                        "text": "Türen reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Fenster reinigen",
+                        "award": 1
+                    },
+                    {
+                        "text": "Waschmaschine reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Boden wischen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Deckenventilatoren und Leuchten abstauben",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vorräte auffüllen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Raum deodorisieren",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Reinigung der Toilette",
+                "tasks": [
+                    {
+                        "text": "Toilette reinigen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Spiegel reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Schubladen organisieren",
+                        "award": 1
+                    },
+                    {
+                        "text": "Boden saugen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Türen reinigen",
+                        "award": 1
+                    },
+                    {
+                        "text": "Fenster putzen",
+                        "award": 1
+                    },
+                    {
+                        "text": "Oberflächen abstauben",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vorhänge waschen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Deckenventilatoren und Leuchten abstauben",
+                        "award": 5
+                    },
+                    {
+                        "text": "Mülleimer leeren und austauschen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Raum deodorisieren",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Reinigung der Küche",
+                "tasks": [
+                    {
+                        "text": "Arbeitsflächen und Spüle frei räumen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Kühlschrank reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Gefrierschrank reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Geschirr spülen oder die Spülmaschine beladen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Arbeitsplatten abwischen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Mülltonne leeren und säubern",
+                        "award": 4
+                    },
+                    {
+                        "text": "Fegen oder staubsaugen, dann wischen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Schranktüren und Griffe abwischen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Spüle und Wasserhahn reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Schubladen und Vorratskammer organisieren",
+                        "award": 3
+                    },
+                    {
+                        "text": "Mikrowelle reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Geschirrspüler reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Toaster reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Mikrowelle reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Kaffeemaschine reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lufterfrischer überprüfen und austauschen",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Reinigung des Büros",
+                "tasks": [
+                    {
+                        "text": "Schreibtisch aufräumen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Schreibtischschubladen entrümpeln und organisieren",
+                        "award": 3
+                    },
+                    {
+                        "text": "PC reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bücherregale organisieren",
+                        "award": 3
+                    },
+                    {
+                        "text": "Regale organisieren",
+                        "award": 3
+                    },
+                    {
+                        "text": "Oberflächen abstauben",
+                        "award": 2
+                    },
+                    {
+                        "text": "Fenster putzen",
+                        "award": 1
+                    },
+                    {
+                        "text": "Türen reinigen",
+                        "award": 1
+                    },
+                    {
+                        "text": "Vorhänge waschen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Boden kehren und wischen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Boden staubsaugen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Deckenventilatoren und Leuchten abstauben",
+                        "award": 5
+                    },
+                    {
+                        "text": "Mülltonne leeren und Liner ersetzen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lichtschalter und Steckdosen abwischen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Dateien und Büromaterialien organisieren",
+                        "award": 4
+                    },
+                    {
+                        "text": "Häufig berührte Flächen abstauben und desinfizieren",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lufterfrischer überprüfen und austauschen",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Reinigung des Wohnzimmers",
+                "tasks": [
+                    {
+                        "text": "Oberflächen abstauben und reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Teppiche staubsaugen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Böden kehren",
+                        "award": 3
+                    },
+                    {
+                        "text": "TV-Bildschirme und Fernbedienungen abwischen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Fenster und Spiegel reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sofas, Stühle und Tische abstauben und abwischen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Mülltonne leeren und Liner ersetzen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Deckenventilatoren und Leuchten abstauben",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sofa aufräumen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sofa reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Unter dem Sofa reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Regale organisieren",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vorhänge waschen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lufterfrischer überprüfen und austauschen",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Reinigung des Waschraums",
+                "tasks": [
+                    {
+                        "text": "Regale aufräumen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Waschmaschine reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Oberflächen abstauben und reinigen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Fenster putzen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Türen reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vorhänge waschen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Boden kehren und wischen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Boden staubsaugen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Mülltonne leeren und Liner ersetzen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Waschmittel, Weichspüler und Wäschekörbe organisieren",
+                        "award": 3
+                    },
+                    {
+                        "text": "Das Flusensieb im Trockner und den Lüftungsschacht reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Hinter und unter den Geräten saugen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lufterfrischer überprüfen und austauschen",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Reinigung der Garage",
+                "tasks": [
+                    {
+                        "text": "Regale, Oberflächen und sichtbare Gegenstände abstauben",
+                        "award": 4
+                    },
+                    {
+                        "text": "Gegenstände sortieren, die behalten, spenden oder wegwerfen sollen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Boden kehren und wischen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Regale abwischen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Auto reinigen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Auto staubsaugen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Mülltonne leeren und Liner ersetzen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Werkzeuge und Ausrüstung inspizieren und reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Werkzeuge schärfen oder schmieren",
+                        "award": 2
+                    },
+                    {
+                        "text": "Gegenstände umstellen und organisieren",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Reinigung des Gartens",
+                "tasks": [
+                    {
+                        "text": "Veranda oder Terrasse kehren",
+                        "award": 4
+                    },
+                    {
+                        "text": "Rasen mähen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Gartentisch reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Gartenstühle reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Grill reinigen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Zaun reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Gartenbeete von Schmutz, Blättern und Unkraut befreien",
+                        "award": 4
+                    },
+                    {
+                        "text": "Pflanzen beschneiden und stutzen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Gartenabfälle sammeln und entsorgen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Mulch oder Kompost hinzufügen, um den Boden zu verbessern",
+                        "award": 5
+                    },
+                    {
+                        "text": "Pflanzen gießen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Nach Schädlingen und Krankheiten suchen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Neue Pflanzen setzen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Gartenwerkzeuge organisieren und reinigen",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Saisonreinigungsliste",
+        "categories": [
+            {
+                "categoryName": "Checkliste für die Sommerreinigung",
+                "tasks": [
+                    {
+                        "text": "Ecken und Kanten abstauben.",
+                        "award": 2
+                    },
+                    {
+                        "text": "Türoberseiten abstauben.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lampen reinigen.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Teppiche gründlich reinigen.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Wurfteppiche waschen.",
+                        "award": 2
+                    },
+                    {
+                        "text": "Unter Geräten reinigen.",
+                        "award": 4
+                    },
+                    {
+                        "text": "Wände reinigen und Farbe berühren.",
+                        "award": 5
+                    },
+                    {
+                        "text": "Türen abwaschen/abwischen.",
+                        "award": 4
+                    },
+                    {
+                        "text": "Türgriffe, Schalter und Schalterplatten abwischen.",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lampenschirme absaugen oder mit einem Fusselroller abrollen.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Gartenmöbel reinigen.",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Hier ist eine Herbstreinigungs-Checkliste",
+                "tasks": [
+                    {
+                        "text": "Dachrinnen überprüfen und reinigen.",
+                        "award": 4
+                    },
+                    {
+                        "text": "Veranda/Terrasse aufräumen.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Garten aufräumen.",
+                        "award": 4
+                    },
+                    {
+                        "text": "Garage fegen/staubsaugen.",
+                        "award": 2
+                    },
+                    {
+                        "text": "Außenbereich überprüfen und reinigen.",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vorhänge/Jalousien waschen.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Decken und Überwürfe waschen.",
+                        "award": 4
+                    },
+                    {
+                        "text": "Schränke ausmisten.",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Hier ist eine Winterputzliste",
+                "tasks": [
+                    {
+                        "text": "Lampen und Deckenventilatoren abstauben und reinigen.",
+                        "award": 4
+                    },
+                    {
+                        "text": "Garage oder Lagerbereiche reinigen und organisieren.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Holzmöbel reinigen und polieren.",
+                        "award": 5
+                    },
+                    {
+                        "text": "Böden fegen und wischen.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Teppiche gründlich reinigen.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Isolierung um Türen und Fenster überprüfen und reinigen.",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bettwäsche und Kissen waschen und desinfizieren.",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Frühlingsputz-Liste",
+                "tasks": [
+                    {
+                        "text": "Fenster und Fensterbänke abstauben und reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Teppiche und Teppiche gründlich reinigen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Schränke organisieren und entrümpeln",
+                        "award": 3
+                    },
+                    {
+                        "text": "Matratzen reinigen und umdrehen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Wände und Fußleisten abwischen",
+                        "award": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Digitale Entgiftung",
+        "categories": [
+            {
+                "categoryName": "Digitale Entgiftung",
+                "tasks": [
+                    {
+                        "text": "Entfolgen Sie Konten auf Instagram",
+                        "award": 1
+                    },
+                    {
+                        "text": "Foto löschen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Entfreunden Sie Leute auf Facebook",
+                        "award": 3
+                    },
+                    {
+                        "text": "Wechseln Sie Ihr Telefon außerhalb des Bettes",
+                        "award": 4
+                    },
+                    {
+                        "text": "Deaktivieren Sie die Benachrichtigungen an Ihrem nächsten freien Tag",
+                        "award": 3
+                    },
+                    {
+                        "text": "Einen Tag lang keine sozialen Medien",
+                        "award": 5
+                    },
+                    {
+                        "text": "Schauen Sie nicht den ganzen Tag fern",
+                        "award": 4
+                    },
+                    {
+                        "text": "Schließen Sie alle geöffneten Tabs auf Ihrem Telefon",
+                        "award": 2
+                    },
+                    {
+                        "text": "Schauen Sie nicht innerhalb einer Stunde nach dem Aufwachen auf Ihr Telefon",
+                        "award": 4
+                    },
+                    {
+                        "text": "Benutzen Sie beim Essen keine digitalen Geräte",
+                        "award": 4
+                    }
+                ]
+            },
+            {
+                "categoryName": "Desktop-Entgiftung",
+                "tasks": [
+                    {
+                        "text": "Räumen Sie Ihren Desktop auf",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organisieren Sie Ordner auf Ihrem Desktop",
+                        "award": 3
+                    },
+                    {
+                        "text": "Begrenzen Sie die Browser-Tabs",
+                        "award": 4
+                    },
+                    {
+                        "text": "Beschränken Sie den Zugriff auf soziale Medien",
+                        "award": 5
+                    },
+                    {
+                        "text": "Abmelden oder Herunterfahren",
+                        "award": 1
+                    },
+                    {
+                        "text": "Reinigen Sie Ihre Taskleiste",
+                        "award": 2
+                    },
+                    {
+                        "text": "Setzen Sie klare Arbeitszeiten",
+                        "award": 2
+                    },
+                    {
+                        "text": "Deaktivieren Sie Benachrichtigungen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Verwenden Sie einen minimalistischen Hintergrundbild",
+                        "award": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "5-Minuten-Korrekturen",
+        "categories": [
+            {
+                "categoryName": "Abendliche Routine-Liste",
+                "tasks": [
+                    {
+                        "text": "Geschirr abwaschen oder die Spülmaschine beladen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Mittagessen für den nächsten Tag vorbereiten",
+                        "award": 3
+                    },
+                    {
+                        "text": "Kleidung für den Morgen bereitlegen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Küchenarbeitsflächen und Geräte reinigen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vor dem Schlafengehen entspannen und abschalten",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Haustierfreundliche Reinigungsliste",
+                "tasks": [
+                    {
+                        "text": "Haustiere bürsten und pflegen, lose Haare und Verwicklungen entfernen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Tierhaare von Möbeln absaugen, Tierhaar-Aufsatz verwenden",
+                        "award": 3
+                    },
+                    {
+                        "text": "Wassernäpfe und Katzenklos erfrischen, mit sauberem Wasser und Katzenstreu auffüllen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Haustierbett und Spielzeug ordentlich arrangieren, für einen aufgeräumten Bereich sorgen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Hunde spazieren führen oder Spielen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Haustierfutter und Vorräte überprüfen und auffüllen",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Checkliste für die Outdoor-Oase",
+                "tasks": [
+                    {
+                        "text": "Vordere Veranda und Gehweg kehren, Schmutz und Ablagerungen entfernen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Unordnung von Sitzgelegenheiten im Freien beseitigen, Kissen und Kissen arrangieren",
+                        "award": 3
+                    },
+                    {
+                        "text": "Pflanzen gießen und pflegen, welke Blätter oder trockene Erde überprüfen",
+                        "award": 4
+                    },
+                    {
+                        "text": "Outdoor-Teppiche ausschütteln, Schmutz und Staub entfernen",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Wöchentliche Mahlvorbereitungsliste",
+                "tasks": [
+                    {
+                        "text": "Mahlzeiten für die Woche planen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Einkaufsliste erstellen",
+                        "award": 2
+                    },
+                    {
+                        "text": "Einkaufen gehen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Zutaten vorbereiten und portionieren",
+                        "award": 2
+                    },
+                    {
+                        "text": "Kochen und Mahlzeiten in Behältern aufbewahren",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Wochenendputz-Liste",
+                "tasks": [
+                    {
+                        "text": "Alle Böden saugen oder fegen",
+                        "award": 5
+                    },
+                    {
+                        "text": "Möbel und Oberflächen abstauben",
+                        "award": 4
+                    },
+                    {
+                        "text": "Fenster und Spiegel reinigen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Küchengeräte abwischen",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bettlaken und Kissenbezüge wechseln",
+                        "award": 2
+                    },
+                    {
+                        "text": "Wäsche waschen",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

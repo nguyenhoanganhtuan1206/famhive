@@ -1,0 +1,975 @@
+[
+    {
+        "specialCategoryName": "Dọn dẹp phòng",
+        "categories": [
+            {
+                "categoryName": "Dọn dẹp phòng ngủ",
+                "tasks": [
+                    {
+                        "text": "Giặt gối",
+                        "award": 3
+                    },
+                    {
+                        "text": "Giặt chăn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Thay ga trải giường",
+                        "award": 1
+                    },
+                    {
+                        "text": "Quét bụi đồ nội thất và các thiết bị",
+                        "award": 2
+                    },
+                    {
+                        "text": "Hút bụi hoặc quét sàn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lau cửa sổ và rèm cửa",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau gương và kính",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sắp xếp tủ đựng đồ và bàn đầu giường",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dọn đồ sạch/dơ vào đúng nơi",
+                        "award": 2
+                    },
+                    {
+                        "text": "Đổ rác và thay túi rác",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quét bụi quạt trần và đèn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lau TV",
+                        "award": 2
+                    },
+                    {
+                        "text": "Khử mùi phòng",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp phòng trẻ con",
+                "tasks": [
+                    {
+                        "text": "Thay ga trải giường và vỏ gối",
+                        "award": 2
+                    },
+                    {
+                        "text": "Quét, lau sàn hoặc hút bụi sàn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sắp xếp tủ đựng đồ gọn gàng",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lau dưới giường",
+                        "award": 1
+                    },
+                    {
+                        "text": "Lau gương",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau đồ nội thất và bề mặt",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau bộ đèn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vệ sinh rèm hoặc quét bụi màn cửa",
+                        "award": 3
+                    },
+                    {
+                        "text": "Rũ bụi khỏi thảm và chăn",
+                        "award": 2
+                    },
+                    {
+                        "text": "Kiểm tra và làm sạch quạt trần",
+                        "award": 5
+                    },
+                    {
+                        "text": "Kiểm tra và làm sạch bộ lọc máy điều hòa không khí",
+                        "award": 5
+                    },
+                    {
+                        "text": "Khử trùng hoặc rửa đồ chơi",
+                        "award": 4
+                    },
+                    {
+                        "text": "Đổ rác và thay túi rác",
+                        "award": 4
+                    },
+                    {
+                        "text": "Khử mùi phòng",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp phòng tắm",
+                "tasks": [
+                    {
+                        "text": "Dọn sạch các bề mặt",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau gương và kính",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vệ sinh lau chùi bồn cầu",
+                        "award": 5
+                    },
+                    {
+                        "text": "Chùi sạch bồn rửa tay",
+                        "award": 4
+                    },
+                    {
+                        "text": "Chùi sạch bồn tắm/đứng",
+                        "award": 3
+                    },
+                    {
+                        "text": "Đổ rác và thay túi rác",
+                        "award": 4
+                    },
+                    {
+                        "text": "Thay khăn tắm",
+                        "award": 1
+                    },
+                    {
+                        "text": "Lau cửa",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau cửa sổ",
+                        "award": 1
+                    },
+                    {
+                        "text": "Vệ sinh lau chùi máy giặt",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sàn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Quét bụi quạt trần và đèn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Bổ sung đồ dùng",
+                        "award": 2
+                    },
+                    {
+                        "text": "Khử mùi phòng",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp nhà vệ sinh",
+                "tasks": [
+                    {
+                        "text": "Vệ sinh bồn cầu",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lau gương",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sắp xếp các ngăn kéo",
+                        "award": 1
+                    },
+                    {
+                        "text": "Hút bụi sàn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sạch cửa",
+                        "award": 1
+                    },
+                    {
+                        "text": "Lau sạch cửa sổ",
+                        "award": 1
+                    },
+                    {
+                        "text": "Quét bụi bề mặt",
+                        "award": 2
+                    },
+                    {
+                        "text": "Giặt rèm",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quét bụi quạt trần và đèn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Đổ rác và thay túi rác",
+                        "award": 4
+                    },
+                    {
+                        "text": "Khử mùi phòng",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp phòng bếp",
+                "tasks": [
+                    {
+                        "text": "Lau sạch bề mặt và bồn rửa",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau tủ lạnh",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau tủ đá",
+                        "award": 2
+                    },
+                    {
+                        "text": "Rửa bát đĩa hoặc dùng máy rửa bát",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lau sạch mặt bàn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Đổ rác và thay túi rác",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quét bụi hoặc hút bụi, sau đó lau sạch sàn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lau sạch cửa tủ và cán cửa",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lau sạch bồn rửa và vòi nước",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sắp xếp các ngăn kéo và tủ thực phẩm",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sạch lò vi sóng",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sạch máy rửa bát",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau sạch máy nướng bánh mì",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sạch lò nướng vi sóng",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau sạch máy pha cà phê",
+                        "award": 3
+                    },
+                    {
+                        "text": "Kiểm tra và thay thế hương thơm không khí",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp phòng làm việc",
+                "tasks": [
+                    {
+                        "text": "Dọn dẹp bàn làm việc",
+                        "award": 2
+                    },
+                    {
+                        "text": "Sắp xếp và tổ chức ngăn kéo bàn làm việc",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sạch máy tính cá nhân",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sắp xếp kệ sách",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sắp xếp kệ",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quét bụi các bề mặt",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau cửa sổ",
+                        "award": 1
+                    },
+                    {
+                        "text": "Lau cửa",
+                        "award": 1
+                    },
+                    {
+                        "text": "Giặt rèm",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quét và lau sàn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Hút bụi sàn",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quét bụi quạt trần và đèn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Đổ rác và thay túi rác",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lau sạch công tắc đèn và ổ điện",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sắp xếp tài liệu và vật dụng",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quét bụi và khử trùng các khu vực tiếp xúc cao",
+                        "award": 5
+                    },
+                    {
+                        "text": "Kiểm tra và thay thế hương thơm không khí",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp phòng khách",
+                "tasks": [
+                    {
+                        "text": "Quét bụi và lau sạch bề mặt",
+                        "award": 3
+                    },
+                    {
+                        "text": "Hút bụi thảm",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quét sàn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sạch màn hình TV, điều khiển từ xa",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lau cửa sổ và gương",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quét bụi và lau sạch ghế sofa, ghế và bàn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Đổ rác và thay túi rác",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quét bụi quạt trần và đèn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sắp xếp bàn ghế",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sạch ghế sofa",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau sạch dưới ghế sofa",
+                        "award": 2
+                    },
+                    {
+                        "text": "Sắp xếp kệ",
+                        "award": 3
+                    },
+                    {
+                        "text": "Giặt rèm",
+                        "award": 3
+                    },
+                    {
+                        "text": "Kiểm tra và thay thế hương thơm không khí",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp phòng giặt là",
+                "tasks": [
+                    {
+                        "text": "Sắp xếp kệ",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sạch máy giặt",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quét bụi và lau sạch bề mặt",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lau cửa sổ",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau cửa",
+                        "award": 2
+                    },
+                    {
+                        "text": "Giặt rèm",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quét & lau sàn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Hút bụi sàn",
+                        "award": 4
+                    },
+                    {
+                        "text": "Đổ rác và thay túi rác",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sắp xếp bột giặt, nước xả và giỏ đựng quần áo",
+                        "award": 3
+                    },
+                    {
+                        "text": "Làm sạch bộ lọc xơ vải trong máy sấy và lỗ thông hơi",
+                        "award": 2
+                    },
+                    {
+                        "text": "Hút bụi phía sau và dưới các thiết bị",
+                        "award": 3
+                    },
+                    {
+                        "text": "Kiểm tra và thay thế hương thơm không khí",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp gara",
+                "tasks": [
+                    {
+                        "text": "Quét bụi kệ, bề mặt và các vật phẩm nằm ngoài trời",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sắp xếp các vật phẩm thành các đống để giữ lại, tặng hoặc vứt bỏ",
+                        "award": 5
+                    },
+                    {
+                        "text": "Quét và lau sàn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lau kệ",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau rửa xe hơi",
+                        "award": 5
+                    },
+                    {
+                        "text": "Hút bụi xe hơi",
+                        "award": 4
+                    },
+                    {
+                        "text": "Đổ rác và thay túi rác",
+                        "award": 4
+                    },
+                    {
+                        "text": "Kiểm tra và làm sạch dụng cụ và thiết bị",
+                        "award": 3
+                    },
+                    {
+                        "text": "Mài hoặc bôi trơn dụng cụ",
+                        "award": 2
+                    },
+                    {
+                        "text": "Sắp xếp lại và tổ chức các vật phẩm",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp sân vườn",
+                "tasks": [
+                    {
+                        "text": "Quét sân thượng hoặc sân hiên",
+                        "award": 4
+                    },
+                    {
+                        "text": "Cắt tỉa cỏ",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau bàn ngoài trời",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau ghế ngoài trời",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vệ sinh lò nướng than",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vệ sinh hàng rào",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dọn sạch cành cây, lá rụng và cỏ dại từ vườn",
+                        "award": 4
+                    },
+                    {
+                        "text": "Tỉa và cắt tỉa cây cối",
+                        "award": 5
+                    },
+                    {
+                        "text": "Thu gom và tiêu hủy rác từ vườn",
+                        "award": 5
+                    },
+                    {
+                        "text": "Thêm mùn cỏ hoặc phân trộn để cải thiện đất",
+                        "award": 5
+                    },
+                    {
+                        "text": "Tưới cây",
+                        "award": 5
+                    },
+                    {
+                        "text": "Kiểm tra sâu bệnh và sâu bệnh",
+                        "award": 5
+                    },
+                    {
+                        "text": "Trồng cây mới",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sắp xếp và làm sạch dụng cụ làm vườn",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Dọn Dẹp Theo Mùa",
+        "categories": [
+            {
+                "categoryName": "Danh sách kiểm tra dọn dẹp mùa hè",
+                "tasks": [
+                    {
+                        "text": "Lau chùi bụi ở các góc và cạnh",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau trên đầu cửa",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vệ sinh đèn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Giặt sạch sàn thảm",
+                        "award": 3
+                    },
+                    {
+                        "text": "Giặt thảm nhỏ",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vệ sinh dưới các thiết bị",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lau sạch tường và sơn lại (nếu cần)",
+                        "award": 5
+                    },
+                    {
+                        "text": "Rửa và lau cửa",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lau các tay nắm cửa, công tắc, tấm che công tắc",
+                        "award": 2
+                    },
+                    {
+                        "text": "Hút bụi hoặc dây trên bóng đèn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vệ sinh đồ ngoài trời",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Danh sách kiểm tra dọn dẹp mùa thu",
+                "tasks": [
+                    {
+                        "text": "Kiểm tra và làm sạch ống thoát nước mưa",
+                        "award": 4
+                    },
+                    {
+                        "text": "Dọn dẹp hiên nhà/sân hiên",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dọn dẹp sân vườn",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quét/dùng máy hút bụi ga-ra",
+                        "award": 2
+                    },
+                    {
+                        "text": "Kiểm tra và làm sạch bên ngoài ngôi nhà",
+                        "award": 4
+                    },
+                    {
+                        "text": "Giặt rèm/cửa chống nắng",
+                        "award": 3
+                    },
+                    {
+                        "text": "Giặt chăn và thảm",
+                        "award": 4
+                    },
+                    {
+                        "text": "Dọn dẹp tủ",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Danh sách kiểm tra vệ sinh mùa đông",
+                "tasks": [
+                    {
+                        "text": "Lau chùi và làm sạch đèn và quạt trần",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vệ sinh và sắp xếp gara hoặc khu vực nhà kho",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau chùi và làm bóng đồ gỗ",
+                        "award": 5
+                    },
+                    {
+                        "text": "Quét và lau sàn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vệ sinh sâu cho thảm và thảm trải sàn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Kiểm tra và làm sạch lớp cách nhiệt quanh cửa và cửa sổ",
+                        "award": 2
+                    },
+                    {
+                        "text": "Giặt và khử trùng chăn ga và gối",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Danh sách dọn dẹp đón xuân",
+                "tasks": [
+                    {
+                        "text": "Lau sạch cửa sổ",
+                        "award": 2
+                    },
+                    {
+                        "text": "Làm sạch thảm",
+                        "award": 2
+                    },
+                    {
+                        "text": "Sắp xếp và dọn dẹp tủ quần áo",
+                        "award": 3
+                    },
+                    {
+                        "text": "Làm sạch nệm",
+                        "award": 4
+                    },
+                    {
+                        "text": "Làm sạch tường",
+                        "award": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Giải độc kỹ thuật số",
+        "categories": [
+            {
+                "categoryName": "Detox điện thoại",
+                "tasks": [
+                    {
+                        "text": "Lọc tài khoản ít tương tác trên Instagram",
+                        "award": 1
+                    },
+                    {
+                        "text": "Lọc ảnh trên điện thoại",
+                        "award": 2
+                    },
+                    {
+                        "text": "Xoá bè ít tương tác trên Facebook",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bỏ điện thoại xa giường ngủ",
+                        "award": 4
+                    },
+                    {
+                        "text": "Tắt thông báo vào ngày nghỉ",
+                        "award": 3
+                    },
+                    {
+                        "text": "Một ngày không sử dụng mạng xã hội",
+                        "award": 5
+                    },
+                    {
+                        "text": "Một ngày không xem TV",
+                        "award": 4
+                    },
+                    {
+                        "text": "Đóng hết tất cả các tab trên điện thoại",
+                        "award": 2
+                    },
+                    {
+                        "text": "Không sử dụng điện thoại trong vòng 1 giờ sau khi thức dậy",
+                        "award": 4
+                    },
+                    {
+                        "text": "Không sử dụng thiết bị công nghệ trong khi ăn",
+                        "award": 4
+                    }
+                ]
+            },
+            {
+                "categoryName": "Detox máy tính",
+                "tasks": [
+                    {
+                        "text": "Dọn dẹp máy tính",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sắp xếp các thư mục trong máy tính",
+                        "award": 3
+                    },
+                    {
+                        "text": "Hạn chế số tab trình duyệt",
+                        "award": 4
+                    },
+                    {
+                        "text": "Hạn chế truy cập mạng xã hội",
+                        "award": 5
+                    },
+                    {
+                        "text": "Đăng xuất hoặc tắt máy",
+                        "award": 1
+                    },
+                    {
+                        "text": "Dọn sạch thanh tác vụ",
+                        "award": 2
+                    },
+                    {
+                        "text": "Xác định giờ làm việc cụ thể",
+                        "award": 2
+                    },
+                    {
+                        "text": "Tắt thông báo",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sử dụng hình nền tối giản",
+                        "award": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Công việc 5 phút",
+        "categories": [
+            {
+                "categoryName": "Danh sách việc cần làm vào buổi tối",
+                "tasks": [
+                    {
+                        "text": "Rửa chén",
+                        "award": 2
+                    },
+                    {
+                        "text": "Chuẩn bị bữa trưa cho ngày mai",
+                        "award": 3
+                    },
+                    {
+                        "text": "Chuẩn bị quần áo cho buổi sáng",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lau sạch mặt bếp và các thiết bị nhà bếp",
+                        "award": 4
+                    },
+                    {
+                        "text": "Thư giãn trước khi đi ngủ",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Chăm sóc thú cưng",
+                "tasks": [
+                    {
+                        "text": "Chải mượt và làm sạch lông thú cưng",
+                        "award": 3
+                    },
+                    {
+                        "text": "Hút lông rụng của thú cưng",
+                        "award": 3
+                    },
+                    {
+                        "text": "Thay nước uống và cát",
+                        "award": 2
+                    },
+                    {
+                        "text": "Dọn dẹp chỗ ngủ và đồ chơi của thú cưng gọn gàng",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dẫn chó đi dạo hoặc chơi cùng nó",
+                        "award": 3
+                    },
+                    {
+                        "text": "Kiểm tra và bổ sung thức ăn, nước uống cho thú cưng",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Dọn dẹp khu vực bên ngoài",
+                "tasks": [
+                    {
+                        "text": "Quét sân trước và lối đi",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dọn dẹp chỗ ngồi ngoài trời, sắp xếp lại đệm và gối",
+                        "award": 3
+                    },
+                    {
+                        "text": "Tưới nước và chăm sóc cây cối, nhặt lá héo và đất khô",
+                        "award": 4
+                    },
+                    {
+                        "text": "Thay thảm ngoài sân",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Chuẩn bị món ăn hàng tuần",
+                "tasks": [
+                    {
+                        "text": "Lập kế hoạch bữa ăn trong tuần",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lên danh sách mua sắm",
+                        "award": 2
+                    },
+                    {
+                        "text": "Mua thực phẩm",
+                        "award": 3
+                    },
+                    {
+                        "text": "Chuẩn bị và phân chia nguyên liệu",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nấu và bảo quản các món ăn",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Làm sạch cuối tuần",
+                "tasks": [
+                    {
+                        "text": "Hút hoặc quét tất cả các sàn nhà",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lau bụi bám trên đồ đạc và các bề mặt",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lau sạch cửa sổ và gương",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lau sạch thiết bị nhà bếp",
+                        "award": 3
+                    },
+                    {
+                        "text": "Thay ga trải giường và vỏ gối",
+                        "award": 2
+                    },
+                    {
+                        "text": "Giặt quần áo",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

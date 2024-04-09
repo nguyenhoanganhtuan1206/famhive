@@ -1,0 +1,971 @@
+[
+    {
+        "specialCategoryName": "Lista Limpieza Habitación",
+        "categories": [
+            {
+                "categoryName": "Limpieza del dormitorio",
+                "tasks": [
+                    {
+                        "text": "Lavar las almohadas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lavar las mantas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Cambiar la ropa de cama",
+                        "award": 1
+                    },
+                    {
+                        "text": "Quitar el polvo de los muebles y electrodomésticos",
+                        "award": 2
+                    },
+                    {
+                        "text": "Pasar la aspiradora o barrer el suelo",
+                        "award": 5
+                    },
+                    {
+                        "text": "Limpiar las ventanas y las persianas o cortinas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar espejos y cristales",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organizar la cómoda y la mesita de noche",
+                        "award": 3
+                    },
+                    {
+                        "text": "Guardar la ropa sucia o limpia",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vaciar y reemplazar la basura",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quitar el polvo de los ventiladores de techo y las luminarias",
+                        "award": 5
+                    },
+                    {
+                        "text": "Limpiar la televisión",
+                        "award": 2
+                    },
+                    {
+                        "text": "Desodorizar la habitación",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Limpieza de la habitación de un niño",
+                "tasks": [
+                    {
+                        "text": "Cambiar las sábanas y las fundas de almohada",
+                        "award": 2
+                    },
+                    {
+                        "text": "Barrer, trapear o aspirar el suelo",
+                        "award": 5
+                    },
+                    {
+                        "text": "Ordenar el armario",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar debajo de la cama",
+                        "award": 1
+                    },
+                    {
+                        "text": "Limpiar los espejos",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar los muebles y superficies",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar las luminarias",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar las persianas o quitar el polvo de las cortinas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sacudir las alfombras y mantas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Revisar y limpiar los ventiladores de techo",
+                        "award": 5
+                    },
+                    {
+                        "text": "Revisar y limpiar los filtros del aire acondicionado",
+                        "award": 5
+                    },
+                    {
+                        "text": "Desinfectar o lavar los juguetes",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vaciar y reemplazar la basura",
+                        "award": 4
+                    },
+                    {
+                        "text": "Desodorizar la habitación",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Limpieza del baño",
+                "tasks": [
+                    {
+                        "text": "Limpiar las superficies",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar espejos y cristales",
+                        "award": 3
+                    },
+                    {
+                        "text": "Fregar el inodoro",
+                        "award": 5
+                    },
+                    {
+                        "text": "Fregar el lavabo",
+                        "award": 4
+                    },
+                    {
+                        "text": "Fregar la ducha o bañera",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vaciar y reemplazar la basura",
+                        "award": 4
+                    },
+                    {
+                        "text": "Cambiar las toallas",
+                        "award": 1
+                    },
+                    {
+                        "text": "Limpiar las puertas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar las ventanas",
+                        "award": 1
+                    },
+                    {
+                        "text": "Limpiar la lavadora",
+                        "award": 3
+                    },
+                    {
+                        "text": "Fregar el suelo",
+                        "award": 5
+                    },
+                    {
+                        "text": "Quitar el polvo de los ventiladores de techo y las luminarias",
+                        "award": 5
+                    },
+                    {
+                        "text": "Reponer suministros",
+                        "award": 2
+                    },
+                    {
+                        "text": "Desodorizar la habitación",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Limpieza del inodoro",
+                "tasks": [
+                    {
+                        "text": "Limpiar el inodoro",
+                        "award": 5
+                    },
+                    {
+                        "text": "Limpiar espejos",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organizar los cajones",
+                        "award": 1
+                    },
+                    {
+                        "text": "Pasar la aspiradora en el suelo",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar las puertas",
+                        "award": 1
+                    },
+                    {
+                        "text": "Limpiar las ventanas",
+                        "award": 1
+                    },
+                    {
+                        "text": "Quitar el polvo de las superficies",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lavar las cortinas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quitar el polvo de los ventiladores de techo y las luminarias",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vaciar y reemplazar la basura",
+                        "award": 4
+                    },
+                    {
+                        "text": "Desodorizar la habitación",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Limpieza de la cocina",
+                "tasks": [
+                    {
+                        "text": "Limpiar las superficies y el fregadero",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar el refrigerador",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar el congelador",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lavar los platos o cargar el lavavajillas",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar las encimeras",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vaciar y limpiar el bote de basura",
+                        "award": 4
+                    },
+                    {
+                        "text": "Barrer o pasar la aspiradora y luego trapear el suelo",
+                        "award": 5
+                    },
+                    {
+                        "text": "Limpiar las puertas y manijas de los gabinetes",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar el fregadero y el grifo",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organizar los cajones y la despensa",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar el microondas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar el lavavajillas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar la tostadora",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar la cafetera",
+                        "award": 3
+                    },
+                    {
+                        "text": "Revisar y reemplazar los ambientadores de aire",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Limpieza de la oficina",
+                "tasks": [
+                    {
+                        "text": "Ordenar el escritorio",
+                        "award": 2
+                    },
+                    {
+                        "text": "Despejar y organizar los cajones del escritorio",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar la computadora",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organizar las estanterías de libros",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organizar los estantes",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quitar el polvo de las superficies",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar las ventanas",
+                        "award": 1
+                    },
+                    {
+                        "text": "Limpiar las puertas",
+                        "award": 1
+                    },
+                    {
+                        "text": "Lavar las cortinas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Barrer y trapear el suelo",
+                        "award": 5
+                    },
+                    {
+                        "text": "Pasar la aspiradora en el suelo",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quitar el polvo de los ventiladores de techo y las luminarias",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vaciar la basura y reemplazar las bolsas",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar los interruptores de luz y enchufes eléctricos",
+                        "award": 4
+                    },
+                    {
+                        "text": "Organizar archivos y suministros",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quitar el polvo y desinfectar las áreas de alto contacto",
+                        "award": 5
+                    },
+                    {
+                        "text": "Revisar y reemplazar los ambientadores de aire",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Limpieza de la sala de estar",
+                "tasks": [
+                    {
+                        "text": "Quitar el polvo y limpiar las superficies",
+                        "award": 3
+                    },
+                    {
+                        "text": "Pasar la aspiradora en las alfombras",
+                        "award": 4
+                    },
+                    {
+                        "text": "Barrer el suelo",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar las pantallas de televisión, controles remotos",
+                        "award": 5
+                    },
+                    {
+                        "text": "Limpiar las ventanas y espejos",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quitar el polvo y limpiar los sofás, sillas y mesas",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vaciar la basura y reemplazar las bolsas",
+                        "award": 4
+                    },
+                    {
+                        "text": "Quitar el polvo de los ventiladores de techo y las luminarias",
+                        "award": 5
+                    },
+                    {
+                        "text": "Ordenar el sofá",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar el sofá",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar debajo del sofá",
+                        "award": 2
+                    },
+                    {
+                        "text": "Organizar las estanterías",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lavar las cortinas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Revisar y reemplazar los ambientadores de aire",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Limpieza del cuarto de lavado",
+                "tasks": [
+                    {
+                        "text": "Ordenar los estantes",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar la lavadora",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quitar el polvo y limpiar las superficies",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar las ventanas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar las puertas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lavar las cortinas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Barrer y trapear el suelo",
+                        "award": 5
+                    },
+                    {
+                        "text": "Pasar la aspiradora en el suelo",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vaciar la basura y reemplazar las bolsas",
+                        "award": 4
+                    },
+                    {
+                        "text": "Organizar los detergentes, suavizantes y cestas de ropa",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar el filtro de pelusa en la secadora y el conducto de ventilación",
+                        "award": 2
+                    },
+                    {
+                        "text": "Pasar la aspiradora detrás y debajo de los electrodomésticos",
+                        "award": 3
+                    },
+                    {
+                        "text": "Revisar y reemplazar los ambientadores de aire",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Limpieza del garaje",
+                "tasks": [
+                    {
+                        "text": "Quitar el polvo de los estantes, superficies y objetos expuestos",
+                        "award": 4
+                    },
+                    {
+                        "text": "Clasificar los objetos en montones para conservar, donar o desechar",
+                        "award": 5
+                    },
+                    {
+                        "text": "Barrer y trapear el suelo",
+                        "award": 5
+                    },
+                    {
+                        "text": "Limpiar los estantes",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar el coche",
+                        "award": 5
+                    },
+                    {
+                        "text": "Pasar la aspiradora en el coche",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vaciar la basura y reemplazar las bolsas",
+                        "award": 4
+                    },
+                    {
+                        "text": "Inspeccionar y limpiar herramientas y equipo",
+                        "award": 3
+                    },
+                    {
+                        "text": "Afilar o lubricar herramientas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Reorganizar y organizar los objetos",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Limpieza del jardín",
+                "tasks": [
+                    {
+                        "text": "Barrer el porche o el patio",
+                        "award": 4
+                    },
+                    {
+                        "text": "Cortar el césped",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar la mesa exterior",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar las sillas exteriores",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar la barbacoa",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar la valla",
+                        "award": 3
+                    },
+                    {
+                        "text": "Quitar escombros, hojas y malas hierbas de los parterres",
+                        "award": 4
+                    },
+                    {
+                        "text": "Poda y recorte de plantas",
+                        "award": 5
+                    },
+                    {
+                        "text": "Recoger y desechar los desechos del jardín",
+                        "award": 5
+                    },
+                    {
+                        "text": "Agregar mantillo o compost para mejorar el suelo",
+                        "award": 5
+                    },
+                    {
+                        "text": "Regar las plantas",
+                        "award": 5
+                    },
+                    {
+                        "text": "Revisar la presencia de plagas y enfermedades",
+                        "award": 5
+                    },
+                    {
+                        "text": "Plantar nuevos elementos",
+                        "award": 5
+                    },
+                    {
+                        "text": "Organizar y limpiar las herramientas de jardinería",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Limpeza sazonal",
+        "categories": [
+            {
+                "categoryName": "Lista de verificación de limpieza de verano",
+                "tasks": [
+                    {
+                        "text": "Limpiar las esquinas y bordes del polvo",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar la parte superior de las puertas del polvo",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar las luminarias",
+                        "award": 3
+                    },
+                    {
+                        "text": "Realizar una limpieza profunda de las alfombras",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lavar las alfombras pequeñas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar debajo de los electrodomésticos",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar las paredes y retocar la pintura",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lavar o limpiar las puertas",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar los pomos de las puertas, interruptores y placas de interruptores",
+                        "award": 2
+                    },
+                    {
+                        "text": "Aspirar o pasar un rodillo quitapelusas por las pantallas de las lámparas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar los muebles de exterior",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Aquí tienes una lista de verificación para la limpieza de otoño",
+                "tasks": [
+                    {
+                        "text": "Revisar y limpiar los canalones",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar el porche/patio",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar el jardín",
+                        "award": 4
+                    },
+                    {
+                        "text": "Barrer/aspirar el garaje",
+                        "award": 2
+                    },
+                    {
+                        "text": "Barrer/aspirar el garaje",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lavar las cortinas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lavar las mantas y las colchas",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar los armarios",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Aquí tienes una lista de limpieza de invierno",
+                "tasks": [
+                    {
+                        "text": "Quitar el polvo y limpiar las lámparas y los ventiladores de techo",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar y organizar el garaje o las áreas de almacenamiento",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar y pulir los muebles de madera",
+                        "award": 5
+                    },
+                    {
+                        "text": "Barrer y trapear los pisos",
+                        "award": 3
+                    },
+                    {
+                        "text": "Realizar una limpieza profunda de las alfombras y las alfombras",
+                        "award": 3
+                    },
+                    {
+                        "text": "Revisar y limpiar el aislamiento alrededor de las puertas y ventanas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lavar y desinfectar la ropa de cama y las almohadas",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Lista de limpieza de primavera",
+                "tasks": [
+                    {
+                        "text": "Limpiar y lavar las ventanas y los alféizares de las ventanas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar en profundidad las alfombras y las moquetas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Organizar y despejar los armarios",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar y voltear los colchones",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar las paredes y los zócalos",
+                        "award": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Desintoxicação Digital",
+        "categories": [
+            {
+                "categoryName": "Desintoxicación digital",
+                "tasks": [
+                    {
+                        "text": "Dejar de seguir cuentas en Instagram",
+                        "award": 1
+                    },
+                    {
+                        "text": "Borrar foto",
+                        "award": 2
+                    },
+                    {
+                        "text": "Dejar de ser amigos en Facebook",
+                        "award": 3
+                    },
+                    {
+                        "text": "Cambia tu teléfono lejos de la cama",
+                        "award": 4
+                    },
+                    {
+                        "text": "Desactiva las notificaciones en tu próximo día libre",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sin redes sociales por un día",
+                        "award": 5
+                    },
+                    {
+                        "text": "No ver televisión todo el día",
+                        "award": 4
+                    },
+                    {
+                        "text": "Cierra todas las pestañas abiertas en tu teléfono",
+                        "award": 2
+                    },
+                    {
+                        "text": "No mires tu teléfono una hora después de despertarte",
+                        "award": 4
+                    },
+                    {
+                        "text": "No utilices dispositivos digitales mientras comes",
+                        "award": 4
+                    }
+                ]
+            },
+            {
+                "categoryName": "Desintoxicación de escritorio",
+                "tasks": [
+                    {
+                        "text": "Ordena tu escritorio",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organiza carpetas en tu escritorio",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limitar las pestañas del navegador",
+                        "award": 4
+                    },
+                    {
+                        "text": "Restringir el acceso a las redes sociales",
+                        "award": 5
+                    },
+                    {
+                        "text": "Cerrar sesión o apagar",
+                        "award": 1
+                    },
+                    {
+                        "text": "Despejar la barra de tareas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Establecer horarios de trabajo claros",
+                        "award": 2
+                    },
+                    {
+                        "text": "Desactivar las notificaciones",
+                        "award": 4
+                    },
+                    {
+                        "text": "Utilizar un fondo de pantalla minimalista",
+                        "award": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "5 minutos de correcciones",
+        "categories": [
+            {
+                "categoryName": "Lista de tareas nocturnas",
+                "tasks": [
+                    {
+                        "text": "Lavar los platos o cargar el lavavajillas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Preparar el almuerzo para el día siguiente",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dejar listas las prendas para la mañana",
+                        "award": 2
+                    },
+                    {
+                        "text": "Limpiar las encimeras y los electrodomésticos de la cocina",
+                        "award": 4
+                    },
+                    {
+                        "text": "Relajarse y descansar antes de acostarse",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Lista de limpieza para mascotas",
+                "tasks": [
+                    {
+                        "text": "Cepillar y cuidar a las mascotas, eliminar el pelo suelto y los enredos",
+                        "award": 3
+                    },
+                    {
+                        "text": "Aspirar el pelo de las mascotas de los muebles, utilizando un accesorio para pelo de mascotas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Refrescar los recipientes de agua y las cajas de arena, reemplazar con agua limpia y arena",
+                        "award": 2
+                    },
+                    {
+                        "text": "Ordenar la ropa de cama y los juguetes para mascotas, asegurándose de que el área para mascotas esté ordenada",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sacar a pasear a los perros o jugar con ellos",
+                        "award": 3
+                    },
+                    {
+                        "text": "Revisar y reponer la comida y los suministros para mascotas",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Lista de control del oasis exterior",
+                "tasks": [
+                    {
+                        "text": "Barrer el porche delantero y el camino, eliminar la suciedad y los escombros",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar el desorden de los asientos exteriores, colocar cojines y almohadas",
+                        "award": 3
+                    },
+                    {
+                        "text": "Regar y cuidar las plantas, revisar si hay hojas marchitas o tierra seca",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sacudir las alfombras exteriores, eliminar la suciedad y el polvo",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Lista de preparación de comidas semanales",
+                "tasks": [
+                    {
+                        "text": "Planificar las comidas para la semana",
+                        "award": 2
+                    },
+                    {
+                        "text": "Crear una lista de compras",
+                        "award": 2
+                    },
+                    {
+                        "text": "Hacer las compras",
+                        "award": 3
+                    },
+                    {
+                        "text": "Preparar y porcionar los ingredientes",
+                        "award": 2
+                    },
+                    {
+                        "text": "Cocinar y almacenar las comidas en recipientes",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Lista de limpieza de fin de semana",
+                "tasks": [
+                    {
+                        "text": "Aspirar o barrer todos los pisos",
+                        "award": 5
+                    },
+                    {
+                        "text": "Quitar el polvo de los muebles y las superficies",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limpiar las ventanas y los espejos",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limpiar los electrodomésticos",
+                        "award": 3
+                    },
+                    {
+                        "text": "Cambiar sábanas y fundas de almohada",
+                        "award": 2
+                    },
+                    {
+                        "text": "Hacer la colada",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "categoryName": "Evening Routine Checklist",
+    "tasks": [
+      "Wash dishes or load the dishwasher",
+      "Pack lunch for the next day",
+      "Set out clothes for the morning",
+      "Clean kitchen countertops and appliances",
+      "Relax and unwind before bed"
+    ]
+  },
+  {
+    "categoryName": "Spring Cleaning Checklist",
+    "tasks": [
+      "Dust and wash windows and window sills",
+      "Deep clean carpets and rugs",
+      "Organize and declutter closets",
+      "Clean and rotate mattresses",
+      "Wipe down walls and baseboards"
+    ]
+  },
+  {
+    "categoryName": "Bathroom Blitz",
+    "tasks": [
+      "Scrub toilet bowl, seat, and tank",
+      "Clean sink and countertop, removing toothpaste stains and watermarks",
+      "Wipe down shower walls, glass, and showerhead",
+      "Sweep and mop the bathroom floor, paying attention to corners and edges",
+      "Replace hand towels and refill soap dispensers"
+    ]
+  },
+  {
+    "categoryName": "Kitchen Appliances Revamp",
+    "tasks": [
+      "Clean microwave inside and out, removing any splatters",
+      "Wipe down stovetop and oven door to remove grease and spills",
+      "Empty and sanitize the refrigerator, discarding expired items",
+      "Run the dishwasher or wash dishes, ensuring the sink is clear of dirty items"
+    ]
+  },
+  {
+    "categoryName": "Kids' Room Rescue",
+    "tasks": [
+      "Make beds and fluff pillows, arranging them neatly",
+      "Organize toys and books on shelves, grouping similar items together",
+      "Declutter surfaces and desks, placing items in their designated spots",
+      "Empty trash and recycling bins, replacing liners if necessary"
+    ]
+  },
+  {
+    "categoryName": "Pet-Friendly Purge",
+    "tasks": [
+      "Brush and groom pets, removing loose fur and tangles",
+      "Vacuum pet fur from furniture, using a pet hair attachment",
+      "Refresh water bowls and litter boxes, replacing with clean water and litter",
+      "Straighten pet bedding and toys, ensuring a tidy pet area",
+      "Take dogs for a walk or playtime",
+      "Check and replenish pet food and supplies"
+    ]
+  },
+  {
+    "categoryName": "Outdoor Oasis Checklist",
+    "tasks": [
+      "Sweep front porch and walkway, removing dirt and debris",
+      "Clear clutter from outdoor seating, arranging cushions and pillows",
+      "Water and tend to plants, checking for any wilted leaves or dry soil",
+      "Shake out outdoor rugs, removing dirt and dust"
+    ]
+  },
+  {
+    "categoryName": "Weekly Meal Prep Checklist",
+    "tasks": [
+      "Plan meals for the week",
+      "Create a grocery list",
+      "Grocery shopping",
+      "Prepare and portion ingredients",
+      "Cook and store meals in containers"
+    ]
+  },
+  {
+    "categoryName": "Bathroom Deep Cleaning Checklist",
+    "tasks": [
+      "Scrub and disinfect the bathtub and shower",
+      "Clean grout and tiles",
+      "Polish faucets and fixtures",
+      "Remove soap scum and hard water stains",
+      "Organize and declutter bathroom cabinets"
+    ]
+  },
+  {
+    "categoryName": "Weekend Cleaning Checklist",
+    "tasks": [
+      "Vacuum or sweep all floors",
+      "Dust furniture and surfaces",
+      "Clean windows and mirrors",
+      "Wipe down kitchen appliances",
+      "Change bed sheets and pillowcases",
+      "Do laundry"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+export enum NotificationForType {
+  ALL_USER = 'ALL_USER',
+  NORMAL_USER = 'NORMAL_USER',
+  PREMIUM_USER = 'PREMIUM_USER',
+  SUPER_USER = 'SUPER_USER',
+  SPECIFIC = 'SPECIFIC',
+}

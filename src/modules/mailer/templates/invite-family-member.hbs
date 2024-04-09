@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to FamHive</title>
+  <style>
+    /* Add your custom styles here */
+    /* This is just an example */
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #333;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .logo {
+      display: block;
+      margin: 0 auto 20px;
+      width: 150px;
+      height: auto;
+    }
+    .btn {
+       display: inline-block;
+       background-color: #7CBDAE;
+       color: #fff !important;
+       padding: 8px 20px;
+       border-radius: 5px;
+       text-decoration: none;
+       font-weight: bold;
+       text-align: center;
+     }
+    .btn:hover {
+      background-color: #548075;
+      color: #E6E6E6 !important;
+    }
+    @media (max-width: 600px) {
+      .download-widget {
+        text-align: center;
+      }
+
+      .download-widget .btn {
+        margin-top: 5px;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <img class="logo" src="{{LOGO_URL}}" alt="FamHive Logo">
+  <p>Dear {{fullName}},</p>
+  <p>You have an invitation to join the family on <strong>FamHive</strong> from <a href="mailto:{{inviterEmail}}">{{inviterName}}</a>!</p>
+  <p>To join the family, please download the app from the link below and sign-in with your email <strong>{{email}}</strong></p>
+  <div class="download-widget">
+    <a class="btn" href="{{APPLE_STORE_LINK}}">Download for iOS</a>
+    <a class="btn" href="{{ANDROID_APP_LINK}}">Download for Android</a>
+    <a class="btn" href="{{joinViaWebLink}}">Go to Web App</a>
+  </div>
+
+  <p>If you have any questions or concerns, please do not hesitate to contact us at <a href="sendto:{{EMAIL_SUPPORT}}">{{EMAIL_SUPPORT}}</a></p>
+  <p>Thank you for joining FamHive!</p>
+  <p>Best regards,<br>The FamHive Team</p>
+</div>
+</body>
+</html>

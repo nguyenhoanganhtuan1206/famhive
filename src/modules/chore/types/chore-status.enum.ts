@@ -1,0 +1,7 @@
+export enum ChoreStatus {
+  UPCOMING = 'UPCOMING',
+  COMPLETED = 'COMPLETED',
+  INCOMPLETE = 'INCOMPLETE',
+  DUE_TODAY = 'DUE_TODAY',
+  EMPTY = 'EMPTY',
+}

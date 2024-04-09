@@ -1,0 +1,101 @@
+[
+  {
+    "categoryName": "Checklist Rutinitas Malam",
+    "tasks": [
+      "Cuci piring atau masukkan ke dalam mesin pencuci piring",
+      "Siapkan bekal untuk keesokan harinya",
+      "Siapkan pakaian untuk pagi hari",
+      "Bersihkan permukaan dan peralatan dapur",
+      "Bersantai sebelum tidur"
+    ]
+  },
+  {
+    "categoryName": "Checklist Pembersihan Musim Semi",
+    "tasks": [
+      "Bersihkan dan cuci jendela serta ambang jendela",
+      "Bersihkan karpet dan permadani secara mendalam",
+      "Susun dan bersihkan lemari",
+      "Bersihkan dan balik kasur",
+      "Lap dinding dan alas dinding"
+    ]
+  },
+  {
+    "categoryName": "Checklist Pembersihan Kamar Mandi",
+    "tasks": [
+      "Gosok dan bersihkan kloset, kursi, dan tangki toilet",
+      "Bersihkan wastafel dan permukaan, hilangkan noda pasta gigi dan bekas air",
+      "Lap dinding shower, kaca, dan kepala shower",
+      "Sapu dan pel lantai kamar mandi, perhatikan sudut dan tepi",
+      "Ganti handuk tangan dan isi ulang dispenser sabun"
+    ]
+  },
+  {
+    "categoryName": "Checklist Penyegaran Peralatan Dapur",
+    "tasks": [
+      "Bersihkan microwave dari dalam dan luar, hilangkan bercak",
+      "Lap kompor dan pintu oven untuk menghilangkan lemak dan tumpahan",
+      "Kosongkan dan sanitasi kulkas, buang barang yang kadaluarsa",
+      "Jalankan mesin pencuci piring atau cuci piring, pastikan wastafel bebas dari barang kotor"
+    ]
+  },
+  {
+    "categoryName": "Checklist Penyelamatan Kamar Anak-anak",
+    "tasks": [
+      "Rapihkan tempat tidur dan isi bantal, susun dengan rapi",
+      "Susun mainan dan buku di rak, kelompokkan barang serupa",
+      "Bersihkan permukaan dan meja, letakkan barang di tempat yang ditentukan",
+      "Buang sampah dan isi ulang tempat sampah daur ulang"
+    ]
+  },
+  {
+    "categoryName": "Checklist Pembersihan Ramah Hewan Peliharaan",
+    "tasks": [
+      "Sikat dan perawatan hewan peliharaan, hilangkan bulu rontok dan kusut",
+      "Vakum bulu hewan dari perabot, menggunakan alat penghilang bulu hewan",
+      "Segarkan mangkuk air dan kotak pasir, isi ulang dengan air bersih dan pasir",
+      "Rapihkan tempat tidur dan mainan hewan peliharaan, pastikan area hewan peliharaan rapi",
+      "Ajak anjing berjalan atau bermain",
+      "Periksa dan isi ulang makanan dan perlengkapan hewan peliharaan"
+    ]
+  },
+  {
+    "categoryName": "Daftar Periksa Oasis Luar Ruangan",
+    "tasks": [
+      "Sapu teras depan dan jalan setapak, bersihkan kotoran dan puing",
+      "Bersihkan tempat duduk luar ruangan, susun bantal dan bantal",
+      "Siram dan rawat tanaman, periksa daun layu atau tanah kering",
+      "Goyangkan tikar luar ruangan, hilangkan kotoran dan debu"
+    ]
+  },
+  {
+    "categoryName": "Checklist Persiapan Makanan Mingguan",
+    "tasks": [
+      "Rencanakan makanan untuk minggu ini",
+      "Buat daftar belanjaan",
+      "Belanja bahan makanan",
+      "Persiapkan dan bagi bahan-bahan",
+      "Masak dan simpan makanan dalam wadah"
+    ]
+  },
+  {
+    "categoryName": "Checklist Pembersihan Mendalam Kamar Mandi",
+    "tasks": [
+      "Gosok dan disinfeksi bathtub dan shower",
+      "Bersihkan grout dan ubin",
+      "Kilapkan kran dan perlengkapan",
+      "Hilangkan kerak sabun dan noda air keras",
+      "Susun dan bersihkan lemari kamar mandi"
+    ]
+  },
+  {
+    "categoryName": "Checklist Pembersihan Akhir Pekan",
+    "tasks": [
+      "Vakum atau sapu semua lantai",
+      "Bersihkan perabot dan permukaan",
+      "Bersihkan jendela dan cermin",
+      "Lap peralatan dapur",
+      "Ganti seprai dan sarung bantal",
+      "Mencuci pakaian"
+    ]
+  }
+]

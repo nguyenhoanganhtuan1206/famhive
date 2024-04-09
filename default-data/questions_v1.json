@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Are you allergic to any of the following food items?",
+    "enabled": true,
+    "type": "MULTI_CHOICE",
+    "options": [
+      "Peanuts",
+      "Tree nuts",
+      "Sesame",
+      "Dairy",
+      "Shellfish",
+      "Fish",
+      "Egg",
+      "Wheat / Gluten",
+      "Soya",
+      "Celery",
+      "Mustard"
+    ]
+  },
+  {
+    "name": "Do you identify as any of the following?",
+    "enabled": true,
+    "type": "SINGLE_CHOICE",
+    "options": [
+      "Vegan (no animal products)",
+      "Vegetarian (consume eggs and dairy products)",
+      "Pescetarian (no meat, but eat fish and/or shellfish)",
+      "None of the above"
+    ]
+  },
+  {
+    "name": "What types of food does your family enjoy eating?",
+    "enabled": true,
+    "type": "MULTI_CHOICE",
+    "options": [
+      "Meat",
+      "Chicken",
+      "Fish",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Does your family typically prefer dishes with the following flavors:",
+    "enabled": true,
+    "type": "SINGLE_CHOICE",
+    "options": [
+      "Salty",
+      "Sweet",
+      "Sour",
+      "Spicy",
+      "Rich",
+      "Light",
+      "Other"
+    ]
+  },
+  {
+    "name": "How does your family prefer dishes to be prepared?",
+    "enabled": true,
+    "type": "SINGLE_CHOICE",
+    "options": [
+      "Boiled",
+      "Steamed",
+      "Stewed",
+      "Cooked",
+      "Fried",
+      "Stir-fried",
+      "Grilled",
+      "Mixed"
+    ]
+  },
+  {
+    "name": "How long does a typical meal of your family usually last?",
+    "enabled": true,
+    "type": "SINGLE_CHOICE",
+    "options": [
+      "Less than 20 minutes",
+      "From 15 - 30 minutes",
+      "From 30 - 60 minutes",
+      "More than 60 minutes"
+    ]
+  },
+  {
+    "name": "What type of beverage do our family prefer?",
+    "enabled": true,
+    "type": "MULTI_CHOICE",
+    "options": [
+      "Milk",
+      "Tea",
+      "Coffee",
+      "Alcoholic drinks",
+      "Fruit juice",
+      "Soft drinks",
+      "Smoothie",
+      "No particular preference"
+    ]
+  },
+  {
+    "name": "How often does your family eat fast food?",
+    "enabled": true,
+    "type": "SINGLE_CHOICE",
+    "options": [
+      "Frequently",
+      "Occasionally",
+      "Rarely",
+      "Never"
+    ]
+  },
+  {
+    "name": "Which culinary traditions do you prefer?",
+    "enabled": true,
+    "type": "MULTI_CHOICE",
+    "options": [
+      "Asian",
+      "European",
+      "Middle Eastern",
+      "African",
+      "American",
+      "No particular preference"
+    ]
+  },
+  {
+    "name": "Does your family enjoy eating spicy food?",
+    "enabled": true,
+    "type": "SINGLE_CHOICE",
+    "options": [
+      "Really like ",
+      "Like a little",
+      "Don't like"
+    ]
+  }
+]

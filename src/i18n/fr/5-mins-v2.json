@@ -1,0 +1,975 @@
+[
+    {
+        "specialCategoryName": "Liste Nettoyage Chambre",
+        "categories": [
+            {
+                "categoryName": "Nettoyage de la chambre",
+                "tasks": [
+                    {
+                        "text": "Laver les oreillers",
+                        "award": 3
+                    },
+                    {
+                        "text": "Laver les couvertures",
+                        "award": 3
+                    },
+                    {
+                        "text": "Changer la literie",
+                        "award": 1
+                    },
+                    {
+                        "text": "Poussière sur les meubles et les appareils",
+                        "award": 2
+                    },
+                    {
+                        "text": "Passer l'aspirateur ou balayer le sol",
+                        "award": 5
+                    },
+                    {
+                        "text": "Laver les fenêtres et les stores ou les rideaux",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer les miroirs et les vitres",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organiser la commode et la table de nuit",
+                        "award": 3
+                    },
+                    {
+                        "text": "Ranger les vêtements sales/propres",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vider et remplacer la poubelle",
+                        "award": 4
+                    },
+                    {
+                        "text": "Épousseter les ventilateurs de plafond et les luminaires",
+                        "award": 5
+                    },
+                    {
+                        "text": "Nettoyer la télévision",
+                        "award": 2
+                    },
+                    {
+                        "text": "Désodoriser la pièce",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nettoyage de la chambre d'enfant",
+                "tasks": [
+                    {
+                        "text": "Changer les draps et les taies d'oreiller",
+                        "award": 2
+                    },
+                    {
+                        "text": "Balayer, laver le sol ou passer l'aspirateur",
+                        "award": 5
+                    },
+                    {
+                        "text": "Ranger l'armoire",
+                        "award": 4
+                    },
+                    {
+                        "text": "Nettoyer sous le lit",
+                        "award": 1
+                    },
+                    {
+                        "text": "Nettoyer les miroirs",
+                        "award": 2
+                    },
+                    {
+                        "text": "Essuyer les meubles et les surfaces",
+                        "award": 2
+                    },
+                    {
+                        "text": "Essuyer les luminaires",
+                        "award": 3
+                    },
+                    {
+                        "text": "Essuyer les stores/poussière les rideaux",
+                        "award": 3
+                    },
+                    {
+                        "text": "Secouer les tapis et les couvertures",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vérifier et nettoyer les ventilateurs de plafond",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vérifier et nettoyer les filtres de climatisation",
+                        "award": 5
+                    },
+                    {
+                        "text": "Désinfecter ou laver les jouets",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vider et remplacer la poubelle",
+                        "award": 4
+                    },
+                    {
+                        "text": "Désodoriser la pièce",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nettoyage de la salle de bain",
+                "tasks": [
+                    {
+                        "text": "Débarrasser les surfaces",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer les miroirs et les vitres",
+                        "award": 3
+                    },
+                    {
+                        "text": "Frotter les toilettes",
+                        "award": 5
+                    },
+                    {
+                        "text": "Frotter le lavabo",
+                        "award": 4
+                    },
+                    {
+                        "text": "Frotter la douche/la baignoire",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vider et remplacer la poubelle",
+                        "award": 4
+                    },
+                    {
+                        "text": "Changer les serviettes",
+                        "award": 1
+                    },
+                    {
+                        "text": "Nettoyer les portes",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer les fenêtres",
+                        "award": 1
+                    },
+                    {
+                        "text": "Nettoyer la machine à laver",
+                        "award": 3
+                    },
+                    {
+                        "text": "Laver le sol",
+                        "award": 5
+                    },
+                    {
+                        "text": "Épousseter les ventilateurs de plafond et les luminaires",
+                        "award": 5
+                    },
+                    {
+                        "text": "Reconstituer les fournitures",
+                        "award": 2
+                    },
+                    {
+                        "text": "Désodoriser la pièce",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nettoyage des toilettes",
+                "tasks": [
+                    {
+                        "text": "Nettoyer les toilettes",
+                        "award": 5
+                    },
+                    {
+                        "text": "Nettoyer les miroirs",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organiser les tiroirs",
+                        "award": 1
+                    },
+                    {
+                        "text": "Passer l'aspirateur sur le sol",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer les portes",
+                        "award": 1
+                    },
+                    {
+                        "text": "Nettoyer les fenêtres",
+                        "award": 1
+                    },
+                    {
+                        "text": "Épousseter les surfaces",
+                        "award": 2
+                    },
+                    {
+                        "text": "Laver les rideaux",
+                        "award": 3
+                    },
+                    {
+                        "text": "Épousseter les ventilateurs de plafond et les luminaires",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vider et remplacer la poubelle",
+                        "award": 4
+                    },
+                    {
+                        "text": "Désodoriser la pièce",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nettoyage de la cuisine",
+                "tasks": [
+                    {
+                        "text": "Débarrasser les surfaces et l'évier",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer le réfrigérateur",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer le congélateur",
+                        "award": 2
+                    },
+                    {
+                        "text": "Laver la vaisselle ou charger le lave-vaisselle",
+                        "award": 4
+                    },
+                    {
+                        "text": "Essuyer les plans de travail",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vider et nettoyer la poubelle",
+                        "award": 4
+                    },
+                    {
+                        "text": "Balayer ou passer l'aspirateur, puis laver le sol",
+                        "award": 5
+                    },
+                    {
+                        "text": "Essuyer les portes et les poignées des placards",
+                        "award": 4
+                    },
+                    {
+                        "text": "Nettoyer l'évier et le robinet",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organiser les tiroirs et le garde-manger",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer le micro-ondes",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer le lave-vaisselle",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer le grille-pain",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer le four à micro-ondes",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer la machine à café",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vérifier et remplacer les désodorisants d'air",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nettoyage du bureau",
+                "tasks": [
+                    {
+                        "text": "Ranger le bureau",
+                        "award": 2
+                    },
+                    {
+                        "text": "Désencombrer et organiser les tiroirs du bureau",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer l'ordinateur",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organiser les étagères de livres",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organiser les étagères",
+                        "award": 3
+                    },
+                    {
+                        "text": "Épousseter les surfaces",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer les fenêtres",
+                        "award": 1
+                    },
+                    {
+                        "text": "Nettoyer les portes",
+                        "award": 1
+                    },
+                    {
+                        "text": "Laver les rideaux",
+                        "award": 3
+                    },
+                    {
+                        "text": "Balayer et laver le sol",
+                        "award": 5
+                    },
+                    {
+                        "text": "Passer l'aspirateur sur le sol",
+                        "award": 4
+                    },
+                    {
+                        "text": "Épousseter les ventilateurs de plafond et les luminaires",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vider la corbeille et remplacer les sacs",
+                        "award": 4
+                    },
+                    {
+                        "text": "Essuyer les interrupteurs lumineux et les prises électriques",
+                        "award": 4
+                    },
+                    {
+                        "text": "Organiser les fichiers et les fournitures",
+                        "award": 4
+                    },
+                    {
+                        "text": "Épousseter et désinfecter les zones à forte fréquentation",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vérifier et remplacer les désodorisants d'air",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nettoyage du salon",
+                "tasks": [
+                    {
+                        "text": "Épousseter et nettoyer les surfaces",
+                        "award": 3
+                    },
+                    {
+                        "text": "Passer l'aspirateur sur les tapis",
+                        "award": 4
+                    },
+                    {
+                        "text": "Balayer les sols",
+                        "award": 3
+                    },
+                    {
+                        "text": "Essuyer les écrans de télévision, les télécommandes",
+                        "award": 5
+                    },
+                    {
+                        "text": "Nettoyer les fenêtres et les miroirs",
+                        "award": 3
+                    },
+                    {
+                        "text": "Épousseter et essuyer les canapés, les fauteuils et les tables",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vider la poubelle et remplacer les sacs",
+                        "award": 4
+                    },
+                    {
+                        "text": "Épousseter les ventilateurs de plafond et les luminaires",
+                        "award": 5
+                    },
+                    {
+                        "text": "Ranger le canapé",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer le canapé",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer sous le canapé",
+                        "award": 2
+                    },
+                    {
+                        "text": "Organiser les étagères",
+                        "award": 3
+                    },
+                    {
+                        "text": "Laver les rideaux",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vérifier et remplacer les désodorisants d'air",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nettoyage de la buanderie",
+                "tasks": [
+                    {
+                        "text": "Ranger les étagères",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer la machine à laver",
+                        "award": 3
+                    },
+                    {
+                        "text": "Épousseter et nettoyer les surfaces",
+                        "award": 4
+                    },
+                    {
+                        "text": "Nettoyer les fenêtres",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer les portes",
+                        "award": 2
+                    },
+                    {
+                        "text": "Laver les rideaux",
+                        "award": 3
+                    },
+                    {
+                        "text": "Balayer et laver le sol",
+                        "award": 5
+                    },
+                    {
+                        "text": "Passer l'aspirateur sur le sol",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vider la poubelle et remplacer les sacs",
+                        "award": 4
+                    },
+                    {
+                        "text": "Organiser les détergents, les adoucissants et les paniers à linge",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer le filtre à peluches du sèche-linge et la sortie d'air",
+                        "award": 2
+                    },
+                    {
+                        "text": "Passer l'aspirateur derrière et sous les appareils",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vérifier et remplacer les désodorisants d'air",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nettoyage du garage",
+                "tasks": [
+                    {
+                        "text": "Épousseter les étagères, les surfaces et les objets exposés",
+                        "award": 4
+                    },
+                    {
+                        "text": "Trier les objets à conserver, à donner ou à jeter",
+                        "award": 5
+                    },
+                    {
+                        "text": "Balayer et laver le sol",
+                        "award": 5
+                    },
+                    {
+                        "text": "Essuyer les étagères",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer la voiture",
+                        "award": 5
+                    },
+                    {
+                        "text": "Passer l'aspirateur dans la voiture",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vider la poubelle et remplacer les sacs",
+                        "award": 4
+                    },
+                    {
+                        "text": "Inspecter et nettoyer les outils et l'équipement",
+                        "award": 3
+                    },
+                    {
+                        "text": "Affûter ou lubrifier les outils",
+                        "award": 2
+                    },
+                    {
+                        "text": "Réorganiser et organiser les objets",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Nettoyage du jardin",
+                "tasks": [
+                    {
+                        "text": "Balayer le porche ou la terrasse",
+                        "award": 4
+                    },
+                    {
+                        "text": "Tondre la pelouse",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer la table d'extérieur",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer les chaises d'extérieur",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer le barbecue",
+                        "award": 4
+                    },
+                    {
+                        "text": "Nettoyer la clôture",
+                        "award": 3
+                    },
+                    {
+                        "text": "Débarrasser les débris, les feuilles et les mauvaises herbes des parterres de jardin",
+                        "award": 4
+                    },
+                    {
+                        "text": "Élaguer et tailler les plantes",
+                        "award": 5
+                    },
+                    {
+                        "text": "Collecter et éliminer les déchets de jardin",
+                        "award": 5
+                    },
+                    {
+                        "text": "Ajouter du paillis ou du compost pour améliorer le sol",
+                        "award": 5
+                    },
+                    {
+                        "text": "Arroser les plantes",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vérifier la présence de ravageurs et de maladies",
+                        "award": 5
+                    },
+                    {
+                        "text": "Planter de nouveaux éléments",
+                        "award": 5
+                    },
+                    {
+                        "text": "Organiser et nettoyer les outils de jardinage",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Nettoyage saisonnier",
+        "categories": [
+            {
+                "categoryName": "Liste de contrôle pour le nettoyage d'été",
+                "tasks": [
+                    {
+                        "text": "Dépoussiérer les coins et les bords",
+                        "award": 2
+                    },
+                    {
+                        "text": "Dépoussiérer le dessus des portes",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer les luminaires",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer en profondeur les tapis",
+                        "award": 3
+                    },
+                    {
+                        "text": "Laver les tapis jetables",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer sous les appareils électroménagers",
+                        "award": 4
+                    },
+                    {
+                        "text": "Nettoyer les murs et faire des retouches de peinture",
+                        "award": 5
+                    },
+                    {
+                        "text": "Laver/essuyer les portes",
+                        "award": 4
+                    },
+                    {
+                        "text": "Essuyer les poignées de porte, les interrupteurs et les plaques de commutation",
+                        "award": 2
+                    },
+                    {
+                        "text": "Passer l'aspirateur ou utiliser un rouleau adhésif pour enlever les peluches des abat-jours",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer les meubles d'extérieur",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Voici une liste de contrôle pour le nettoyage d'automne",
+                "tasks": [
+                    {
+                        "text": "Vérifier et nettoyer les gouttières",
+                        "award": 4
+                    },
+                    {
+                        "text": "Nettoyer le porche/la terrasse",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer le jardin",
+                        "award": 4
+                    },
+                    {
+                        "text": "Balayer/passser l'aspirateur dans le garage",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vérifier et nettoyer l'extérieur",
+                        "award": 4
+                    },
+                    {
+                        "text": "Laver les rideaux/les draperies",
+                        "award": 3
+                    },
+                    {
+                        "text": "Laver les couvertures et les jetés",
+                        "award": 4
+                    },
+                    {
+                        "text": "Vider les placards",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Voici une liste de nettoyage d'hiver",
+                "tasks": [
+                    {
+                        "text": "Dépoussiérer et nettoyer les luminaires et les ventilateurs de plafond",
+                        "award": 4
+                    },
+                    {
+                        "text": "Nettoyer et organiser le garage ou les espaces de stockage",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer et polir les meubles en bois",
+                        "award": 5
+                    },
+                    {
+                        "text": "Balayer et laver les sols",
+                        "award": 3
+                    },
+                    {
+                        "text": "Effectuer un nettoyage en profondeur des tapis et des moquettes",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vérifier et nettoyer l'isolation autour des portes et des fenêtres",
+                        "award": 2
+                    },
+                    {
+                        "text": "Laver et désinfecter la literie et les oreillers",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Liste de nettoyage de printemps",
+                "tasks": [
+                    {
+                        "text": "Épousseter et laver les fenêtres et les rebords de fenêtre",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer en profondeur les tapis et les tapis",
+                        "award": 2
+                    },
+                    {
+                        "text": "Organiser et désencombrer les placards",
+                        "award": 3
+                    },
+                    {
+                        "text": "Nettoyer et retourner les matelas",
+                        "award": 4
+                    },
+                    {
+                        "text": "Essuyer les murs et les plinthes",
+                        "award": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Détox numérique",
+        "categories": [
+            {
+                "categoryName": "Détox numérique",
+                "tasks": [
+                    {
+                        "text": "Ne plus suivre les comptes sur Instagram",
+                        "award": 1
+                    },
+                    {
+                        "text": "Supprimer des photos",
+                        "award": 2
+                    },
+                    {
+                        "text": "Supprimer des amis sur Facebook",
+                        "award": 3
+                    },
+                    {
+                        "text": "Changez votre téléphone loin du lit",
+                        "award": 4
+                    },
+                    {
+                        "text": "Désactivez les notifications lors de votre prochain jour de congé",
+                        "award": 3
+                    },
+                    {
+                        "text": "Pas de réseaux sociaux pendant une journée",
+                        "award": 5
+                    },
+                    {
+                        "text": "Ne regarde pas la télévision toute la journée",
+                        "award": 4
+                    },
+                    {
+                        "text": "Fermez tous les onglets ouverts sur votre téléphone",
+                        "award": 2
+                    },
+                    {
+                        "text": "Ne regardez pas votre téléphone dans l’heure qui suit votre réveil",
+                        "award": 4
+                    },
+                    {
+                        "text": "N'utilisez pas d'appareils numériques en mangeant",
+                        "award": 4
+                    }
+                ]
+            },
+            {
+                "categoryName": "Détox de bureau",
+                "tasks": [
+                    {
+                        "text": "Désencombrez votre bureau",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organisez les dossiers sur votre bureau",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limitez les onglets du navigateur",
+                        "award": 4
+                    },
+                    {
+                        "text": "Restreignez l'accès aux médias sociaux",
+                        "award": 5
+                    },
+                    {
+                        "text": "Déconnectez-vous ou éteignez",
+                        "award": 1
+                    },
+                    {
+                        "text": "Débarrassez votre barre des tâches",
+                        "award": 2
+                    },
+                    {
+                        "text": "Définissez des heures de travail claires",
+                        "award": 2
+                    },
+                    {
+                        "text": "Désactivez les notifications",
+                        "award": 4
+                    },
+                    {
+                        "text": "Utilisez un fond d'écran minimaliste",
+                        "award": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Fixations de 5 minutes",
+        "categories": [
+            {
+                "categoryName": "Liste des tâches du soir",
+                "tasks": [
+                    {
+                        "text": "Laver la vaisselle ou charger le lave-vaisselle",
+                        "award": 2
+                    },
+                    {
+                        "text": "Préparer le déjeuner pour le lendemain",
+                        "award": 3
+                    },
+                    {
+                        "text": "Préparer les vêtements pour le matin",
+                        "award": 2
+                    },
+                    {
+                        "text": "Nettoyer les plans de travail et les appareils de cuisine",
+                        "award": 4
+                    },
+                    {
+                        "text": "Se détendre avant de se coucher",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Liste de nettoyage pour animaux de compagnie",
+                "tasks": [
+                    {
+                        "text": "Brosser et soigner les animaux de compagnie, en enlevant les poils lâches et les nœuds",
+                        "award": 3
+                    },
+                    {
+                        "text": "Aspirer les poils d'animaux des meubles, en utilisant une brosse spéciale pour les poils d'animaux",
+                        "award": 3
+                    },
+                    {
+                        "text": "Rafraîchir les bols d'eau et les litières, en remplaçant par de l'eau propre et de la litière",
+                        "award": 2
+                    },
+                    {
+                        "text": "Ranger la literie et les jouets pour animaux de compagnie, en veillant à ce que l'espace pour animaux soit bien rangé",
+                        "award": 3
+                    },
+                    {
+                        "text": "Promener les chiens ou jouer avec eux",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vérifier et reconstituer la nourriture et les fournitures pour animaux de compagnie",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Liste de contrôle pour l'oasis de plein air",
+                "tasks": [
+                    {
+                        "text": "Balayer le porche avant et le chemin, en enlevant la saleté et les débris",
+                        "award": 3
+                    },
+                    {
+                        "text": "Enlever le désordre des sièges extérieurs, disposer les coussins et les oreillers",
+                        "award": 3
+                    },
+                    {
+                        "text": "Arroser et entretenir les plantes, vérifier les feuilles fanées ou la terre sèche",
+                        "award": 4
+                    },
+                    {
+                        "text": "Secouer les tapis extérieurs, en enlevant la saleté et la poussière",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Liste de préparation des repas hebdomadaires",
+                "tasks": [
+                    {
+                        "text": "Planifier les repas de la semaine",
+                        "award": 2
+                    },
+                    {
+                        "text": "Créer une liste d'épicerie",
+                        "award": 2
+                    },
+                    {
+                        "text": "Faire les courses",
+                        "award": 3
+                    },
+                    {
+                        "text": "Préparer et diviser les ingrédients",
+                        "award": 2
+                    },
+                    {
+                        "text": "Cuisiner et stocker les repas dans des contenants",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Liste de nettoyage du week-end",
+                "tasks": [
+                    {
+                        "text": "Aspirer ou balayer tous les sols",
+                        "award": 5
+                    },
+                    {
+                        "text": "Poussiérer les meubles et les surfaces",
+                        "award": 4
+                    },
+                    {
+                        "text": "Nettoyer les fenêtres et les miroirs",
+                        "award": 3
+                    },
+                    {
+                        "text": "Essuyer les appareils de cuisine",
+                        "award": 3
+                    },
+                    {
+                        "text": "Changer les draps et les taies d'oreiller",
+                        "award": 2
+                    },
+                    {
+                        "text": "Faire la lessive",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

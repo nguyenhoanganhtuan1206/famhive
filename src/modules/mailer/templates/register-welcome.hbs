@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to FamHive</title>
+  <style>
+    /* Add your custom styles here */
+    /* This is just an example */
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #333;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .logo {
+      display: block;
+      margin: 0 auto 20px;
+      width: 150px;
+      height: auto;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #7CBDAE;
+      color: #fff !important;
+      padding: 8px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      text-align: center;
+    }
+    .btn:hover {
+      background-color: #548075;
+      color: #E6E6E6 !important;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <img class="logo" src="{{LOGO_URL}}" alt="FamHive Logo">
+  <p>Dear {{fullName}},</p>
+  <p>Welcome to FamHive, the family application that helps you stay connected with your loved ones!</p>
+  <p>To get started, please click the button below to verify your account:</p>
+  <p><a class="btn" href="{{verificationLink}}">Verify Account</a></p>
+  <p>If you have any questions or concerns, please do not hesitate to contact us at <a href="sendto:{{EMAIL_SUPPORT}}">{{EMAIL_SUPPORT}}</a></p>
+  <p>Thank you for joining FamHive!</p>
+  <p>Best regards,<br>The FamHive Team</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,101 @@
+[
+  {
+    "categoryName": "Abendliche Routine-Liste",
+    "tasks": [
+      "Geschirr abwaschen oder die Spülmaschine beladen",
+      "Mittagessen für den nächsten Tag vorbereiten",
+      "Kleidung für den Morgen bereitlegen",
+      "Küchenarbeitsflächen und Geräte reinigen",
+      "Vor dem Schlafengehen entspannen und abschalten"
+    ]
+  },
+  {
+    "categoryName": "Frühlingsputz-Liste",
+    "tasks": [
+      "Fenster und Fensterbänke abstauben und reinigen",
+      "Teppiche und Teppiche gründlich reinigen",
+      "Schränke organisieren und entrümpeln",
+      "Matratzen reinigen und umdrehen",
+      "Wände und Fußleisten abwischen"
+    ]
+  },
+  {
+    "categoryName": "Schnellreinigung Badezimmer-Liste",
+    "tasks": [
+      "Toilette, Sitz und Spülkasten bürsten und desinfizieren",
+      "Waschbecken und Arbeitsplatte reinigen, Zahnpastaflecken und Wasserflecken entfernen",
+      "Duschwände, Glas und Duschkopf abwischen",
+      "Badezimmerboden fegen und wischen, Ecken und Kanten besonders beachten",
+      "Handtücher wechseln und Seifenspender nachfüllen"
+    ]
+  },
+  {
+    "categoryName": "Küchengeräte-Revamp-Liste",
+    "tasks": [
+      "Mikrowelle innen und außen reinigen, Spritzer entfernen",
+      "Herdplatte und Backofentür abwischen, Fett und Verschmutzungen entfernen",
+      "Kühlschrank leeren und desinfizieren, abgelaufene Lebensmittel entsorgen",
+      "Geschirrspüler einschalten oder Geschirr abwaschen, Spüle von schmutzigem Geschirr befreien"
+    ]
+  },
+  {
+    "categoryName": "Kinderzimmer-Rettungs-Liste",
+    "tasks": [
+      "Betten machen und Kissen aufschütteln, ordentlich arrangieren",
+      "Spielzeug und Bücher auf Regalen organisieren, ähnliche Gegenstände zusammenstellen",
+      "Oberflächen und Schreibtische entrümpeln, Gegenstände an ihren dafür vorgesehenen Platz legen",
+      "Mülleimer und Recyclingbehälter leeren, bei Bedarf Liner austauschen"
+    ]
+  },
+  {
+    "categoryName": "Haustierfreundliche Reinigungsliste",
+    "tasks": [
+      "Haustiere bürsten und pflegen, lose Haare und Verwicklungen entfernen",
+      "Tierhaare von Möbeln absaugen, Tierhaar-Aufsatz verwenden",
+      "Wassernäpfe und Katzenklos erfrischen, mit sauberem Wasser und Katzenstreu auffüllen",
+      "Haustierbett und Spielzeug ordentlich arrangieren, für einen aufgeräumten Bereich sorgen",
+      "Hunde spazieren führen oder Spielen",
+      "Haustierfutter und Vorräte überprüfen und auffüllen"
+    ]
+  },
+  {
+    "categoryName": "Checkliste für die Outdoor-Oase",
+    "tasks": [
+      "Vordere Veranda und Gehweg kehren, Schmutz und Ablagerungen entfernen",
+      "Unordnung von Sitzgelegenheiten im Freien beseitigen, Kissen und Kissen arrangieren",
+      "Pflanzen gießen und pflegen, welke Blätter oder trockene Erde überprüfen",
+      "Outdoor-Teppiche ausschütteln, Schmutz und Staub entfernen"
+    ]
+  },
+  {
+    "categoryName": "Wöchentliche Mahlvorbereitungsliste",
+    "tasks": [
+      "Mahlzeiten für die Woche planen",
+      "Einkaufsliste erstellen",
+      "Einkaufen gehen",
+      "Zutaten vorbereiten und portionieren",
+      "Kochen und Mahlzeiten in Behältern aufbewahren"
+    ]
+  },
+  {
+    "categoryName": "Gründliche Badezimmerreinigungsliste",
+    "tasks": [
+      "Badewanne und Dusche schrubben und desinfizieren",
+      "Fugen und Fliesen reinigen",
+      "Armaturen und Ausrüstung polieren",
+      "Seifenreste und Kalkablagerungen entfernen",
+      "Badezimmerschränke organisieren und entrümpeln"
+    ]
+  },
+  {
+    "categoryName": "Wochenendputz-Liste",
+    "tasks": [
+      "Alle Böden saugen oder fegen",
+      "Möbel und Oberflächen abstauben",
+      "Fenster und Spiegel reinigen",
+      "Küchengeräte abwischen",
+      "Bettlaken und Kissenbezüge wechseln",
+      "Wäsche waschen"
+    ]
+  }
+]

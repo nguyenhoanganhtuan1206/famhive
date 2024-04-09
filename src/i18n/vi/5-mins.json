@@ -1,0 +1,101 @@
+[
+  {
+    "categoryName": "Danh sách việc cần làm vào buổi tối",
+    "tasks": [
+      "Rửa chén",
+      "Chuẩn bị bữa trưa cho ngày mai",
+      "Chuẩn bị quần áo cho buổi sáng",
+      "Lau sạch mặt bếp và các thiết bị nhà bếp",
+      "Thư giãn trước khi đi ngủ"
+    ]
+  },
+  {
+    "categoryName": "Danh sách dọn dẹp đón xuân",
+    "tasks": [
+      "Lau sạch cửa sổ",
+      "Làm sạch thảm",
+      "Sắp xếp và dọn dẹp tủ quần áo",
+      "Làm sạch nệm",
+      "Làm sạch tường"
+    ]
+  },
+  {
+    "categoryName": "Danh sách dọn dẹp phòng tắm hàng tuần",
+    "tasks": [
+      "Làm sạch chậu rửa và toilet",
+      "Lau sạch chậu rửa và bề mặt để loại bỏ các vết bám",
+      "Lau sạch tường bồn tắm, kính và vòi sen",
+      "Quét và lau sàn, các góc cạnh trong phòng tắm",
+      "Thay khăn và làm đầy bình xà phòng"
+    ]
+  },
+  {
+    "categoryName": "Danh sách lau dọn nhà bếp",
+    "tasks": [
+      "Làm sạch bên trong và bên ngoài lò vi sóng",
+      "Lau sạch bếp từ và cửa lò để loại bỏ dầu mỡ và vết tràn",
+      "Khử trùng tủ lạnh, bỏ những thứ hết hạn đi",
+      "Rửa bát và dọn bồn rửa chén"
+    ]
+  },
+  {
+    "categoryName": "Dọn dẹp phòng cho trẻ",
+    "tasks": [
+      "Sắp lại giường, gối gọn gàng",
+      "Sắp xếp lại đồ chơi và sách lên kệ",
+      "Sắp xếp các đồ vật vào đúng vị trí",
+      "Đổ rác, thay bao đựng rác (nếu cần)"
+    ]
+  },
+  {
+    "categoryName": "Chăm sóc thú cưng",
+    "tasks": [
+      "Chải mượt và làm sạch lông thú cưng",
+      "Hút lông rụng của thú cưng",
+      "Thay nước uống và cát",
+      "Dọn dẹp chỗ ngủ và đồ chơi của thú cưng gọn gàng",
+      "Dẫn chó đi dạo hoặc chơi cùng nó",
+      "Kiểm tra và bổ sung thức ăn, nước uống cho thú cưng"
+    ]
+  },
+  {
+    "categoryName": "Danh sách dọn dẹp khu vực bên ngoài",
+    "tasks": [
+      "Quét sân trước và lối đi",
+      "Dọn dẹp chỗ ngồi ngoài trời, sắp xếp lại đệm và gối",
+      "Tưới nước và chăm sóc cây cối, nhặt lá héo và đất khô",
+      "Thay thảm ngoài sân"
+    ]
+  },
+  {
+    "categoryName": "Danh sách chuẩn bị món ăn hàng tuần",
+    "tasks": [
+      "Lập kế hoạch bữa ăn trong tuần",
+      "Lên danh sách mua sắm",
+      "Mua thực phẩm",
+      "Chuẩn bị và phân chia nguyên liệu",
+      "Nấu và bảo quản các món ăn"
+    ]
+  },
+  {
+    "categoryName": "Danh sách dọn dẹp phòng tắm định kỳ",
+    "tasks": [
+      "Chà rửa và khử trùng bồn tắm và vòi sen",
+      "Quét và lau nền phòng tắm",
+      "Đánh bóng vòi sen và thiết bị",
+      "Loại bỏ vết xà phòng và vết nước bám ",
+      "Sắp xếp và dọn dẹp tủ phòng tắm"
+    ]
+  },
+  {
+    "categoryName": "Danh sách làm sạch cuối tuần",
+    "tasks": [
+      "Hút hoặc quét tất cả các sàn nhà",
+      "Lau bụi bám trên đồ đạc và các bề mặt",
+      "Lau sạch cửa sổ và gương",
+      "Lau sạch thiết bị nhà bếp",
+      "Thay ga trải giường và vỏ gối",
+      "Giặt quần áo"
+    ]
+  }
+]

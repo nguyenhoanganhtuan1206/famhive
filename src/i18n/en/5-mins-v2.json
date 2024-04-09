@@ -1,0 +1,975 @@
+[
+    {
+        "specialCategoryName": "Room Cleaning Checklist",
+        "categories": [
+            {
+                "categoryName": "Cleaning Bedroom",
+                "tasks": [
+                    {
+                        "text": "Wash pillows",
+                        "award": 3
+                    },
+                    {
+                        "text": "Wash blankets",
+                        "award": 3
+                    },
+                    {
+                        "text": "Change bedding",
+                        "award": 1
+                    },
+                    {
+                        "text": "Dust furniture and appliances",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vacuum or sweep the floor",
+                        "award": 5
+                    },
+                    {
+                        "text": "Wash windows and blinds or curtains",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean mirrors and glass",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organize dresser and nightstand",
+                        "award": 3
+                    },
+                    {
+                        "text": "Put away dirty/clean clothes",
+                        "award": 2
+                    },
+                    {
+                        "text": "Empty and replace trash",
+                        "award": 4
+                    },
+                    {
+                        "text": "Dust ceiling fans & light fixtures",
+                        "award": 5
+                    },
+                    {
+                        "text": "Clean TV",
+                        "award": 2
+                    },
+                    {
+                        "text": "Deodorize room",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Cleaning Child's Room",
+                "tasks": [
+                    {
+                        "text": "Change sheets and pillowcases",
+                        "award": 2
+                    },
+                    {
+                        "text": "Sweep, mop, or vacuum the floor",
+                        "award": 5
+                    },
+                    {
+                        "text": "Tidy up wardrobe",
+                        "award": 4
+                    },
+                    {
+                        "text": "Clean under the bed",
+                        "award": 1
+                    },
+                    {
+                        "text": "Clean mirrors",
+                        "award": 2
+                    },
+                    {
+                        "text": "Wipe down furniture and surfaces",
+                        "award": 2
+                    },
+                    {
+                        "text": "Wipe down light fixtures",
+                        "award": 3
+                    },
+                    {
+                        "text": "Wipe down blinds/dust curtains",
+                        "award": 3
+                    },
+                    {
+                        "text": "Shake out rugs and blankets",
+                        "award": 2
+                    },
+                    {
+                        "text": "Check and clean ceiling fans",
+                        "award": 5
+                    },
+                    {
+                        "text": "Check and clean air conditioner filters",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sanitize or wash toys",
+                        "award": 4
+                    },
+                    {
+                        "text": "Empty and replace trash",
+                        "award": 4
+                    },
+                    {
+                        "text": "Deodorize room",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Cleaning Bathroom",
+                "tasks": [
+                    {
+                        "text": "Clear surfaces",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean mirrors and glass",
+                        "award": 3
+                    },
+                    {
+                        "text": "Scrub toilet",
+                        "award": 5
+                    },
+                    {
+                        "text": "Scrub sink",
+                        "award": 4
+                    },
+                    {
+                        "text": "Scrub shower/tub",
+                        "award": 3
+                    },
+                    {
+                        "text": "Empty and replace trash",
+                        "award": 4
+                    },
+                    {
+                        "text": "Swap out towels",
+                        "award": 1
+                    },
+                    {
+                        "text": "Clean doors",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean windows",
+                        "award": 1
+                    },
+                    {
+                        "text": "Cleaning washing machine",
+                        "award": 3
+                    },
+                    {
+                        "text": "Mop the floor",
+                        "award": 5
+                    },
+                    {
+                        "text": "Dust ceiling fans & light fixtures",
+                        "award": 5
+                    },
+                    {
+                        "text": "Restock supplies",
+                        "award": 2
+                    },
+                    {
+                        "text": "Deodorize room",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Cleaning Toilet",
+                "tasks": [
+                    {
+                        "text": "Clean toilet",
+                        "award": 5
+                    },
+                    {
+                        "text": "Clean mirrors",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organize drawers",
+                        "award": 1
+                    },
+                    {
+                        "text": "Vacuum floor",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean doors",
+                        "award": 1
+                    },
+                    {
+                        "text": "Clean windowns",
+                        "award": 1
+                    },
+                    {
+                        "text": "Dust surfaces",
+                        "award": 2
+                    },
+                    {
+                        "text": "Wash curtains",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dust ceiling fans & light fixtures",
+                        "award": 5
+                    },
+                    {
+                        "text": "Empty and replace trash",
+                        "award": 4
+                    },
+                    {
+                        "text": "Deodorize room",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Cleaning Kitchen Room",
+                "tasks": [
+                    {
+                        "text": "Clear surfaces and the sink",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean fridge",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean freezer",
+                        "award": 2
+                    },
+                    {
+                        "text": "Wash dishes or load the dishwasher",
+                        "award": 4
+                    },
+                    {
+                        "text": "Wipe down countertops",
+                        "award": 3
+                    },
+                    {
+                        "text": "Empty and clean the trash can",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sweep or vacuum, then mop the floor",
+                        "award": 5
+                    },
+                    {
+                        "text": "Wipe cabinet doors and handles",
+                        "award": 4
+                    },
+                    {
+                        "text": "Clean the sink and faucet",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organize drawers and pantry",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean the microwave",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean dishwasher",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean toaster",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean microwave",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean coffee machine",
+                        "award": 3
+                    },
+                    {
+                        "text": "Check and replace air fresheners",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Cleaning Office",
+                "tasks": [
+                    {
+                        "text": "Tidy up desk",
+                        "award": 2
+                    },
+                    {
+                        "text": "Declutter and organize desk drawers",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean PC",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organize bookshelves",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organize shelves",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dust surfaces",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean windows",
+                        "award": 1
+                    },
+                    {
+                        "text": "Clean doors",
+                        "award": 1
+                    },
+                    {
+                        "text": "Wash curtains",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sweep & mop floor",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vacuum floor",
+                        "award": 4
+                    },
+                    {
+                        "text": "Dust ceiling fans & light fixtures",
+                        "award": 5
+                    },
+                    {
+                        "text": "Empty trash and replace liners",
+                        "award": 4
+                    },
+                    {
+                        "text": "Wipe down light switches and electrical outlets",
+                        "award": 4
+                    },
+                    {
+                        "text": "Organize files and supplies",
+                        "award": 4
+                    },
+                    {
+                        "text": "Dust and disinfect high-touch areas",
+                        "award": 5
+                    },
+                    {
+                        "text": "Check and replace air fresheners",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Cleaning Living Room",
+                "tasks": [
+                    {
+                        "text": "Dust and clean surfaces",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vacuum carpets",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sweep floors",
+                        "award": 3
+                    },
+                    {
+                        "text": "Wipe down TV screens, remote controls",
+                        "award": 5
+                    },
+                    {
+                        "text": "Clean windows and mirrors",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dust and wipe down sofas, chairs, and tables",
+                        "award": 5
+                    },
+                    {
+                        "text": "Empty trash and replace liners",
+                        "award": 4
+                    },
+                    {
+                        "text": "Dust ceiling fans & light fixtures",
+                        "award": 5
+                    },
+                    {
+                        "text": "Tidy up sofa",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean sofa",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean under sofa",
+                        "award": 2
+                    },
+                    {
+                        "text": "Organize shelves",
+                        "award": 3
+                    },
+                    {
+                        "text": "Wash curtains",
+                        "award": 3
+                    },
+                    {
+                        "text": "Check and replace air fresheners",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Cleaning Laundry Room",
+                "tasks": [
+                    {
+                        "text": "Tidy up shelves",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean washing machine",
+                        "award": 3
+                    },
+                    {
+                        "text": "Dust and clean surfaces",
+                        "award": 4
+                    },
+                    {
+                        "text": "Clean windows",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean doors",
+                        "award": 2
+                    },
+                    {
+                        "text": "Wash curtains",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sweep & mop floor",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vacuum floor",
+                        "award": 4
+                    },
+                    {
+                        "text": "Empty trash and replace liners",
+                        "award": 4
+                    },
+                    {
+                        "text": "Organize laundry detergents, fabric softeners, and laundry baskets",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean the lint filter in the dryer and the vent",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vacuum behind and beneath appliances",
+                        "award": 3
+                    },
+                    {
+                        "text": "Check and replace air fresheners",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Cleaning Garage",
+                "tasks": [
+                    {
+                        "text": "Dust shelves, surfaces, and any exposed items",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sort items into piles to keep, donate, or discard",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sweep & mop floor",
+                        "award": 5
+                    },
+                    {
+                        "text": "Wipe down shelves",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean car",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vacuum car",
+                        "award": 4
+                    },
+                    {
+                        "text": "Empty trash and replace liners",
+                        "award": 4
+                    },
+                    {
+                        "text": "Inspect and clean tools and equipment",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sharpen or lubricate tools",
+                        "award": 2
+                    },
+                    {
+                        "text": "Rearrange and organize items",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Cleaning Garden",
+                "tasks": [
+                    {
+                        "text": "Sweep porch or patio",
+                        "award": 4
+                    },
+                    {
+                        "text": "Mow lawn",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean outdoor table",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean outdoor chairs",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean barbecue",
+                        "award": 4
+                    },
+                    {
+                        "text": "Clean fence",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clear debris, leaves, and weeds from garden beds",
+                        "award": 4
+                    },
+                    {
+                        "text": "Prune and trim plants",
+                        "award": 5
+                    },
+                    {
+                        "text": "Collect and dispose of garden waste",
+                        "award": 5
+                    },
+                    {
+                        "text": "Add mulch or compost to improve soil",
+                        "award": 5
+                    },
+                    {
+                        "text": "Water plants",
+                        "award": 5
+                    },
+                    {
+                        "text": "Check for pests and diseases",
+                        "award": 5
+                    },
+                    {
+                        "text": "Plant new items",
+                        "award": 5
+                    },
+                    {
+                        "text": "Organize and clean gardening tools",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Seasonal Cleaning Checklist",
+        "categories": [
+            {
+                "categoryName": "Summer Cleaning Checklist",
+                "tasks": [
+                    {
+                        "text": "Dust corners and edges",
+                        "award": 2
+                    },
+                    {
+                        "text": "Dust door tops",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean light fixtures",
+                        "award": 3
+                    },
+                    {
+                        "text": "Deep clean carpets",
+                        "award": 3
+                    },
+                    {
+                        "text": "Wash throw rugs",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean under appliances",
+                        "award": 4
+                    },
+                    {
+                        "text": "Clean walls + touch paint",
+                        "award": 5
+                    },
+                    {
+                        "text": "Wash/wipe down doors",
+                        "award": 4
+                    },
+                    {
+                        "text": "Wipe door handles, switches, switchplates",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vacuum or lint-roll lampshades",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean outdoor furniture",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Fall Cleaning Checklist",
+                "tasks": [
+                    {
+                        "text": "Check/clean out gutters",
+                        "award": 4
+                    },
+                    {
+                        "text": "Porch/patio clean up",
+                        "award": 3
+                    },
+                    {
+                        "text": "Yard clean up",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sweep/vacuum garage",
+                        "award": 2
+                    },
+                    {
+                        "text": "Check and clean outside",
+                        "award": 4
+                    },
+                    {
+                        "text": "Wash curtains/draperies",
+                        "award": 3
+                    },
+                    {
+                        "text": "Launder blankets and throws",
+                        "award": 4
+                    },
+                    {
+                        "text": "Clean out cupboards",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Winter Cleaning Checklist",
+                "tasks": [
+                    {
+                        "text": "Dust and clean light fixtures and ceiling fans.",
+                        "award": 4
+                    },
+                    {
+                        "text": "Clean and organize the garage or storage areas.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean and polish wood furniture.",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sweep and mop floors.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Deep clean carpets and rugs.",
+                        "award": 3
+                    },
+                    {
+                        "text": "Check and clean the insulation around doors and windows.",
+                        "award": 2
+                    },
+                    {
+                        "text": "Wash and disinfect bedding and pillows.",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Spring Cleaning Checklist",
+                "tasks": [
+                    {
+                        "text": "Dust and wash windows and window sills",
+                        "award": 2
+                    },
+                    {
+                        "text": "Deep clean carpets and rugs",
+                        "award": 2
+                    },
+                    {
+                        "text": "Organize and declutter closets",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clean and rotate mattresses",
+                        "award": 4
+                    },
+                    {
+                        "text": "Wipe down walls and baseboards",
+                        "award": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Digital Detox",
+        "categories": [
+            {
+                "categoryName": "Phone detox",
+                "tasks": [
+                    {
+                        "text": "Unfollow accounts on Instagram",
+                        "award": 1
+                    },
+                    {
+                        "text": "Delete photo",
+                        "award": 2
+                    },
+                    {
+                        "text": "Unfriend people on Facebook",
+                        "award": 3
+                    },
+                    {
+                        "text": "Change your phone away from bed",
+                        "award": 4
+                    },
+                    {
+                        "text": "Turn notifications off on your next day off",
+                        "award": 3
+                    },
+                    {
+                        "text": "No social media for a day",
+                        "award": 5
+                    },
+                    {
+                        "text": "Do not watch TV all day",
+                        "award": 4
+                    },
+                    {
+                        "text": "Close all the open tabs on your phone",
+                        "award": 2
+                    },
+                    {
+                        "text": "Do not look at your phone within an hour of waking up",
+                        "award": 4
+                    },
+                    {
+                        "text": "Do not use digital devices while eating",
+                        "award": 4
+                    }
+                ]
+            },
+            {
+                "categoryName": "Desktop detox",
+                "tasks": [
+                    {
+                        "text": "Declutter your desktop",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organize folders on your desktop",
+                        "award": 3
+                    },
+                    {
+                        "text": "Limit Browser Tabs",
+                        "award": 4
+                    },
+                    {
+                        "text": "Limit Access to Social Media",
+                        "award": 5
+                    },
+                    {
+                        "text": "Log Off or Shut Down",
+                        "award": 1
+                    },
+                    {
+                        "text": "Unclutter Your Taskbar",
+                        "award": 2
+                    },
+                    {
+                        "text": "Set Clear Work Hours",
+                        "award": 2
+                    },
+                    {
+                        "text": "Turn Off Notifications",
+                        "award": 4
+                    },
+                    {
+                        "text": "Use a Minimalist Wallpaper",
+                        "award": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "5 Mins Fixes",
+        "categories": [
+            {
+                "categoryName": "Evening Routine",
+                "tasks": [
+                    {
+                        "text": "Wash dishes or load the dishwasher",
+                        "award": 2
+                    },
+                    {
+                        "text": "Pack lunch for the next day",
+                        "award": 3
+                    },
+                    {
+                        "text": "Set out clothes for the morning",
+                        "award": 2
+                    },
+                    {
+                        "text": "Clean kitchen countertops and appliances",
+                        "award": 4
+                    },
+                    {
+                        "text": "Relax and unwind before bed",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Pet-Friendly Purge",
+                "tasks": [
+                    {
+                        "text": "Brush and groom pets, removing loose fur and tangles",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vacuum pet fur from furniture, using a pet hair attachment",
+                        "award": 3
+                    },
+                    {
+                        "text": "Refresh water bowls and litter boxes, replacing with clean water and litter",
+                        "award": 2
+                    },
+                    {
+                        "text": "Straighten pet bedding and toys, ensuring a tidy pet area",
+                        "award": 3
+                    },
+                    {
+                        "text": "Take dogs for a walk or playtime",
+                        "award": 3
+                    },
+                    {
+                        "text": "Check and replenish pet food and supplies",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Outdoor Oasis",
+                "tasks": [
+                    {
+                        "text": "Sweep front porch and walkway, removing dirt and debris",
+                        "award": 3
+                    },
+                    {
+                        "text": "Clear clutter from outdoor seating, arranging cushions and pillows",
+                        "award": 3
+                    },
+                    {
+                        "text": "Water and tend to plants, checking for any wilted leaves or dry soil",
+                        "award": 4
+                    },
+                    {
+                        "text": "Shake out outdoor rugs, removing dirt and dust",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Weekly Meal Prep",
+                "tasks": [
+                    {
+                        "text": "Plan meals for the week",
+                        "award": 2
+                    },
+                    {
+                        "text": "Create a grocery list",
+                        "award": 2
+                    },
+                    {
+                        "text": "Grocery shopping",
+                        "award": 3
+                    },
+                    {
+                        "text": "Prepare and portion ingredients",
+                        "award": 2
+                    },
+                    {
+                        "text": "Cook and store meals in containers",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Weekend Cleaning",
+                "tasks": [
+                    {
+                        "text": "Vacuum or sweep all floors",
+                        "award": 5
+                    },
+                    {
+                        "text": "Dust furniture and surfaces",
+                        "award": 4
+                    },
+                    {
+                        "text": "Clean windows and mirrors",
+                        "award": 3
+                    },
+                    {
+                        "text": "Wipe down kitchen appliances",
+                        "award": 3
+                    },
+                    {
+                        "text": "Change bed sheets and pillowcases",
+                        "award": 2
+                    },
+                    {
+                        "text": "Do laundry",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

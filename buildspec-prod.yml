@@ -1,0 +1,112 @@
+version: 0.2
+
+env:
+  secrets-manager:
+    APP_SECRETS: FAMHIVE-V2-PROD-SECRET
+    DOCKER_USER: FAMHIVE-V2-PROD-SECRET:DOCKER_USER
+    DOCKER_PASS: FAMHIVE-V2-PROD-SECRET:DOCKER_PASS
+    AWS_ACCOUNT_ID: FAMHIVE-V2-PROD-SECRET:AWS_ACCOUNT_ID
+    AWS_REGION: FAMHIVE-V2-PROD-SECRET:AWS_REGION
+
+phases:
+  pre_build:
+    commands:
+      - echo "Retrieving secrets..."
+      - APP_SECRETS=$(aws secretsmanager get-secret-value --secret-id FAMHIVE-V2-PROD-SECRET --query SecretString --output text)
+      - echo "Creating .env file..."
+      - echo "NODE_ENV=$(echo $APP_SECRETS | jq -r '.NODE_ENV')" >> .env
+      - echo "PORT=$(echo $APP_SECRETS | jq -r '.PORT')" >> .env
+      - echo "TRANSPORT_PORT=$(echo $APP_SECRETS | jq -r '.TRANSPORT_PORT')" >> .env
+      - echo "JWT_EXPIRATION_TIME=$(echo $APP_SECRETS | jq -r '.JWT_EXPIRATION_TIME')" >> .env
+      - echo "SUBSCRIPTION_EXPIRED_DELAY=$(echo $APP_SECRETS | jq -r '.SUBSCRIPTION_EXPIRED_DELAY')" >> .env
+      - echo "ENABLE_ORM_LOGS=$(echo $APP_SECRETS | jq -r '.ENABLE_ORM_LOGS')" >> .env
+      - echo "ENABLE_DOCUMENTATION=$(echo $APP_SECRETS | jq -r '.ENABLE_DOCUMENTATION')" >> .env
+      - echo "API_VERSION=$(echo $APP_SECRETS | jq -r '.API_VERSION')" >> .env
+      - echo "JWT_PRIVATE_KEY=$(echo $APP_SECRETS | jq -r '.JWT_PRIVATE_KEY')" >> .env
+      - echo "JWT_PUBLIC_KEY=$(echo $APP_SECRETS | jq -r '.JWT_PUBLIC_KEY')" >> .env
+      - echo "GOOGLE_CLIENT_ID=$(echo $APP_SECRETS | jq -r '.GOOGLE_CLIENT_ID')" >> .env
+      - echo "GOOGLE_CLIENT_SECRET=$(echo $APP_SECRETS | jq -r '.GOOGLE_CLIENT_SECRET')" >> .env
+      - echo "GOOGLE_PAY_PROJECT_ID=$(echo $APP_SECRETS | jq -r '.GOOGLE_PAY_PROJECT_ID')" >> .env
+      - echo "GOOGLE_PAY_PRIVATE_KEY_ID=$(echo $APP_SECRETS | jq -r '.GOOGLE_PAY_PRIVATE_KEY_ID')" >> .env
+      - echo "GOOGLE_PAY_PRIVATE_KEY=$(echo $APP_SECRETS | jq -r '.GOOGLE_PAY_PRIVATE_KEY')" >> .env
+      - echo "GOOGLE_PAY_CLIENT_EMAIL=$(echo $APP_SECRETS | jq -r '.GOOGLE_PAY_CLIENT_EMAIL')" >> .env
+      - echo "GOOGLE_PAY_CLIENT_ID=$(echo $APP_SECRETS | jq -r '.GOOGLE_PAY_CLIENT_ID')" >> .env
+      - echo "GOOGLE_PAY_SUBSCRIPTION_NAME=$(echo $APP_SECRETS | jq -r '.GOOGLE_PAY_SUBSCRIPTION_NAME')" >> .env
+      - echo "APPLE_CLIENT_ID=$(echo $APP_SECRETS | jq -r '.APPLE_CLIENT_ID')" >> .env
+      - echo "APPLE_CLIENT_ID_FOR_WEB=$(echo $APP_SECRETS | jq -r '.APPLE_CLIENT_ID_FOR_WEB')" >> .env
+      - echo "APPLE_ITUNES_APP_PASSWORD=$(echo $APP_SECRETS | jq -r '.APPLE_ITUNES_APP_PASSWORD')" >> .env
+      - echo "APPLE_ITUNES_PRIVATE_KEY=$(echo $APP_SECRETS | jq -r '.APPLE_ITUNES_PRIVATE_KEY')" >> .env
+      - echo "APPLE_ITUNES_KEY_ID=$(echo $APP_SECRETS | jq -r '.APPLE_ITUNES_KEY_ID')" >> .env
+      - echo "APPLE_ITUNES_KEY_ISSUER=$(echo $APP_SECRETS | jq -r '.APPLE_ITUNES_KEY_ISSUER')" >> .env
+      - echo "DB_TYPE=$(echo $APP_SECRETS | jq -r '.DB_TYPE')" >> .env
+      - echo "DB_HOST=$(echo $APP_SECRETS | jq -r '.DB_HOST')" >> .env
+      - echo "DB_PORT=$(echo $APP_SECRETS | jq -r '.DB_PORT')" >> .env
+      - echo "DB_USERNAME=$(echo $APP_SECRETS | jq -r '.DB_USERNAME')" >> .env
+      - echo "DB_PASSWORD=$(echo $APP_SECRETS | jq -r '.DB_PASSWORD')" >> .env
+      - echo "DB_DATABASE=$(echo $APP_SECRETS | jq -r '.DB_DATABASE')" >> .env
+      - echo "DB_MAX_CONNECTIONS=$(echo $APP_SECRETS | jq -r '.DB_MAX_CONNECTIONS')" >> .env
+      - echo "AWS_S3_ACCESS_KEY_ID=$(echo $APP_SECRETS | jq -r '.AWS_S3_ACCESS_KEY_ID')" >> .env
+      - echo "AWS_S3_SECRET_ACCESS_KEY=$(echo $APP_SECRETS | jq -r '.AWS_S3_SECRET_ACCESS_KEY')" >> .env
+      - echo "AWS_S3_BUCKET_REGION=$(echo $APP_SECRETS | jq -r '.AWS_S3_BUCKET_REGION')" >> .env
+      - echo "AWS_S3_API_VERSION=$(echo $APP_SECRETS | jq -r '.AWS_S3_API_VERSION')" >> .env
+      - echo "AWS_S3_BUCKET_NAME=$(echo $APP_SECRETS | jq -r '.AWS_S3_BUCKET_NAME')" >> .env
+      - echo "NATS_ENABLED=$(echo $APP_SECRETS | jq -r '.NATS_ENABLED')" >> .env
+      - echo "NATS_HOST=$(echo $APP_SECRETS | jq -r '.NATS_HOST')" >> .env
+      - echo "NATS_PORT=$(echo $APP_SECRETS | jq -r '.NATS_PORT')" >> .env
+      - echo "REDIS_CACHE_ENABLED=$(echo $APP_SECRETS | jq -r '.REDIS_CACHE_ENABLED')" >> .env
+      - echo "REDIS_HOST=$(echo $APP_SECRETS | jq -r '.REDIS_HOST')" >> .env
+      - echo "REDIS_PORT=$(echo $APP_SECRETS | jq -r '.REDIS_PORT')" >> .env
+      - echo "FIREBASE_PARALLEL_LIMIT=$(echo $APP_SECRETS | jq -r '.FIREBASE_PARALLEL_LIMIT')" >> .env
+      - echo "FIREBASE_PROJECT_ID=$(echo $APP_SECRETS | jq -r '.FIREBASE_PROJECT_ID')" >> .env
+      - echo "FIREBASE_PRIVATE_KEY_ID=$(echo $APP_SECRETS | jq -r '.FIREBASE_PRIVATE_KEY_ID')" >> .env
+      - echo "FIREBASE_PRIVATE_KEY=$(echo $APP_SECRETS | jq -r '.FIREBASE_PRIVATE_KEY')" >> .env
+      - echo "FIREBASE_CLIENT_EMAIL=$(echo $APP_SECRETS | jq -r '.FIREBASE_CLIENT_EMAIL')" >> .env
+      - echo "FIREBASE_CLIENT_ID=$(echo $APP_SECRETS | jq -r '.FIREBASE_CLIENT_ID')" >> .env
+      - echo "FIREBASE_CLIENT_CERT_URL=$(echo $APP_SECRETS | jq -r '.FIREBASE_CLIENT_CERT_URL')" >> .env
+      - echo "RATE_REQUEST_LIMIT_WINDOWS=$(echo $APP_SECRETS | jq -r '.RATE_REQUEST_LIMIT_WINDOWS')" >> .env
+      - echo "RATE_REQUEST_LIMIT_MAX=$(echo $APP_SECRETS | jq -r '.RATE_REQUEST_LIMIT_MAX')" >> .env
+      - echo "PAYLOAD_SIZE_LIMIT_MAX=$(echo $APP_SECRETS | jq -r '.PAYLOAD_SIZE_LIMIT_MAX')" >> .env
+      - echo "SENTRY_DSN=$(echo $APP_SECRETS | jq -r '.SENTRY_DSN')" >> .env
+      - echo "SMTP_HOST_EMAIL=$(echo $APP_SECRETS | jq -r '.SMTP_HOST_EMAIL')" >> .env
+      - echo "AWS_REGION=$(echo $APP_SECRETS | jq -r '.AWS_REGION')" >> .env
+      - echo "SMTP_USERNAME=$(echo $APP_SECRETS | jq -r '.SMTP_USERNAME')" >> .env
+      - echo "SMTP_PASSWORD=$(echo $APP_SECRETS | jq -r '.SMTP_PASSWORD')" >> .env
+      - echo "SMTP_PORT=$(echo $APP_SECRETS | jq -r '.SMTP_PORT')" >> .env
+      - echo "CRON_TIME=$(echo $APP_SECRETS | jq -r '.CRON_TIME')" >> .env
+      - echo "LOGO_URL=$(echo $APP_SECRETS | jq -r '.LOGO_URL')" >> .env
+      - echo "APPLE_STORE_LINK=$(echo $APP_SECRETS | jq -r '.APPLE_STORE_LINK')" >> .env
+      - echo "ANDROID_APP_LINK=$(echo $APP_SECRETS | jq -r '.ANDROID_APP_LINK')" >> .env
+      - echo "EMAIL_SUPPORT=$(echo $APP_SECRETS | jq -r '.EMAIL_SUPPORT')" >> .env
+      - echo "OPENAI_API_KEY=$(echo $APP_SECRETS | jq -r '.OPENAI_API_KEY')" >> .env
+      - echo "WEB_URL=$(echo $APP_SECRETS | jq -r '.WEB_URL')" >> .env
+      - echo "SHOPPING_LIST_DEFAULT_PATH=$(echo $APP_SECRETS | jq -r '.SHOPPING_LIST_DEFAULT_PATH')" >> .env
+      - IMAGE_REPO_NAME="famhive-v2-be-prod"
+      - REPOSITORY_URI=$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$IMAGE_REPO_NAME
+      - COMMIT_HASH=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
+      - IMAGE_TAG=${COMMIT_HASH:=latest}
+      - CACHE_IMAGE="$REPOSITORY_URI:cache"
+      - DOCKER_BUILDKIT=1
+      - echo Logging in to Docker Hub...
+      - docker login --username $DOCKER_USER --password $DOCKER_PASS
+      - echo Connecting to Amazon ECR...
+      - aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com
+      - echo Pulling the previous image...
+      - docker pull $CACHE_IMAGE || true
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Building the Docker image ...
+      - docker build --build-arg BUILDKIT_INLINE_CACHE=1 --cache-from $CACHE_IMAGE --tag $REPOSITORY_URI:$IMAGE_TAG .
+      - docker tag $REPOSITORY_URI:$IMAGE_TAG $CACHE_IMAGE
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      - echo Pushing the Docker images...
+      - docker push $CACHE_IMAGE
+      - docker push $REPOSITORY_URI:$IMAGE_TAG
+      - /bin/bash -c "rm -f .env"
+      - echo Writing image definitions file...
+      - printf '[{"name":"%s","imageUri":"%s"}]' "$IMAGE_REPO_NAME" "$REPOSITORY_URI:$IMAGE_TAG" > web-definitions.json
+      - cat web-definitions.json
+artifacts:
+  files: web-definitions.json

@@ -1,0 +1,101 @@
+[
+  {
+    "categoryName": "Lista de verificação da rotina nocturna",
+    "tasks": [
+      "Lavar a loiça ou carregar a máquina de lavar louça",
+      "Preparar o almoço para o dia seguinte",
+      "Arrumar a roupa para a manhã seguinte",
+      "Limpar as bancadas e os electrodomésticos da cozinha",
+      "Relaxar e descontrair antes de dormir"
+    ]
+  },
+  {
+    "categoryName": "Lista de controlo da limpeza da primavera",
+    "tasks": [
+      "Limpar o pó e lavar as janelas e os parapeitos das janelas",
+      "Limpar em profundidade as alcatifas e os tapetes",
+      "Organizar e arrumar os armários",
+      "Limpar e rodar os colchões",
+      "Limpar paredes e rodapés"
+    ]
+  },
+  {
+    "categoryName": "Limpeza da casa de banho",
+    "tasks": [
+      "Esfregue o vaso sanitário, o assento e o tanque",
+      "Limpar o lavatório e a bancada, removendo manchas de pasta de dentes e marcas de água",
+      "Limpar as paredes, o vidro e a cabeça do chuveiro do duche",
+      "Varrer e passar a mopa no chão da casa de banho, prestando atenção aos cantos e arestas",
+      "Substituir as toalhas de mão e encher os dispensadores de sabão"
+    ]
+  },
+  {
+    "categoryName": "Renovação dos electrodomésticos da cozinha",
+    "tasks": [
+      "Limpar o micro-ondas por dentro e por fora, removendo quaisquer salpicos",
+      "Limpar o fogão e a porta do forno para remover a gordura e os salpicos",
+      "Esvazie e higienize o frigorífico, deitando fora os produtos fora de prazo",
+      "Ponha a máquina de lavar loiça a funcionar ou lave a loiça, certificando-se de que o lava-loiça está livre de sujidade"
+    ]
+  },
+  {
+    "categoryName": "Resgate do quarto das crianças",
+    "tasks": [
+      "Fazer as camas e afofar as almofadas, arrumando-as de forma organizada",
+      "Organize brinquedos e livros nas prateleiras, agrupando itens semelhantes",
+      "Arrumar as superfícies e as secretárias, colocando os objectos nos seus devidos lugares",
+      "Esvaziar os caixotes do lixo e da reciclagem, substituindo os revestimentos, se necessário"
+    ]
+  },
+  {
+    "categoryName": "Limpeza para animais de estimação",
+    "tasks": [
+      "Escovar e tratar dos animais de estimação, removendo pêlos soltos e emaranhados",
+      "Aspirar o pelo do animal de estimação dos móveis, utilizando um acessório para pêlos de animais",
+      "Renovar as taças de água e as caixas de areia, substituindo-as por água e areia limpas",
+      "Arrumar a roupa de cama e os brinquedos dos animais de estimação, assegurando uma área arrumada para os animais",
+      "Levar os cães a passear ou a brincar",
+      "Verificar e reabastecer a comida e os produtos para animais de estimação"
+    ]
+  },
+  {
+    "categoryName": "Daftar Periksa Oasis Luar Ruangan",
+    "tasks": [
+      "Varrer o alpendre da frente e o passeio, removendo a sujidade e os detritos",
+      "Limpar a desarrumação dos assentos exteriores, arrumando as almofadas e os travesseiros",
+      "Regar e cuidar das plantas, verificando se há folhas murchas ou terra seca",
+      "Sacudir os tapetes exteriores, removendo a sujidade e o pó"
+    ]
+  },
+  {
+    "categoryName": "Lista de controlo da preparação semanal das refeições",
+    "tasks": [
+      "Planear as refeições para a semana",
+      "Criar uma lista de compras",
+      "Fazer compras de mercearia",
+      "Preparar e repartir os ingredientes",
+      "Cozinhar e guardar as refeições em recipientes"
+    ]
+  },
+  {
+    "categoryName": "Lista de verificação da limpeza profunda da casa de banho",
+    "tasks": [
+      "Esfregar e desinfetar a banheira e o chuveiro",
+      "Limpar a argamassa e os azulejos",
+      "Polir as torneiras e os acessórios",
+      "Remover a espuma de sabão e as manchas de água dura",
+      "Organizar e arrumar os armários da casa de banho"
+    ]
+  },
+  {
+    "categoryName": "Lista de verificação da limpeza de fim de semana",
+    "tasks": [
+      "Aspirar ou varrer todos os pavimentos",
+      "Limpar o pó dos móveis e superfícies",
+      "Limpar janelas e espelhos",
+      "Limpar os electrodomésticos da cozinha",
+      "Mudar os lençóis e as fronhas das camas",
+      "Lavar a roupa"
+    ]
+  }
+]

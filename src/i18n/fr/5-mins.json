@@ -1,0 +1,101 @@
+[
+  {
+    "categoryName": "Liste des tâches du soir",
+    "tasks": [
+      "Laver la vaisselle ou charger le lave-vaisselle",
+      "Préparer le déjeuner pour le lendemain",
+      "Préparer les vêtements pour le matin",
+      "Nettoyer les plans de travail et les appareils de cuisine",
+      "Se détendre avant de se coucher"
+    ]
+  },
+  {
+    "categoryName": "Liste de nettoyage de printemps",
+    "tasks": [
+      "Épousseter et laver les fenêtres et les rebords de fenêtre",
+      "Nettoyer en profondeur les tapis et les tapis",
+      "Organiser et désencombrer les placards",
+      "Nettoyer et retourner les matelas",
+      "Essuyer les murs et les plinthes"
+    ]
+  },
+  {
+    "categoryName": "Liste de nettoyage rapide de la salle de bains",
+    "tasks": [
+      "Brosser et désinfecter la cuvette des toilettes, le siège et le réservoir",
+      "Nettoyer le lavabo et le comptoir, enlever les taches de dentifrice et les traces d'eau",
+      "Essuyer les parois de la douche, le verre et la pomme de douche",
+      "Balayer et laver le sol de la salle de bains, en accordant une attention particulière aux coins et aux bords",
+      "Remplacer les serviettes de main et remplir les distributeurs de savon"
+    ]
+  },
+  {
+    "categoryName": "Rénovation des appareils de cuisine",
+    "tasks": [
+      "Nettoyer le micro-ondes à l'intérieur et à l'extérieur, en enlevant les éclaboussures",
+      "Essuyer la cuisinière et la porte du four pour enlever la graisse et les déversements",
+      "Vider et désinfecter le réfrigérateur, en éliminant les produits périmés",
+      "Faire tourner le lave-vaisselle ou laver la vaisselle, en veillant à ce que l'évier soit débarrassé des articles sales"
+    ]
+  },
+  {
+    "categoryName": "Sauvetage de la chambre des enfants",
+    "tasks": [
+      "Faire les lits et secouer les oreillers, les disposer soigneusement",
+      "Organiser les jouets et les livres sur les étagères, regrouper les objets similaires",
+      "Désencombrer les surfaces et les bureaux, placer les objets à leurs emplacements désignés",
+      "Vider les poubelles et les bacs de recyclage, remplacer les sacs si nécessaire"
+    ]
+  },
+  {
+    "categoryName": "Liste de nettoyage pour animaux de compagnie",
+    "tasks": [
+      "Brosser et soigner les animaux de compagnie, en enlevant les poils lâches et les nœuds",
+      "Aspirer les poils d'animaux des meubles, en utilisant une brosse spéciale pour les poils d'animaux",
+      "Rafraîchir les bols d'eau et les litières, en remplaçant par de l'eau propre et de la litière",
+      "Ranger la literie et les jouets pour animaux de compagnie, en veillant à ce que l'espace pour animaux soit bien rangé",
+      "Promener les chiens ou jouer avec eux",
+      "Vérifier et reconstituer la nourriture et les fournitures pour animaux de compagnie"
+    ]
+  },
+  {
+    "categoryName": "Liste de contrôle pour l'oasis de plein air",
+    "tasks": [
+      "Balayer le porche avant et le chemin, en enlevant la saleté et les débris",
+      "Enlever le désordre des sièges extérieurs, disposer les coussins et les oreillers",
+      "Arroser et entretenir les plantes, vérifier les feuilles fanées ou la terre sèche",
+      "Secouer les tapis extérieurs, en enlevant la saleté et la poussière"
+    ]
+  },
+  {
+    "categoryName": "Liste de préparation des repas hebdomadaires",
+    "tasks": [
+      "Planifier les repas de la semaine",
+      "Créer une liste d'épicerie",
+      "Faire les courses",
+      "Préparer et diviser les ingrédients",
+      "Cuisiner et stocker les repas dans des contenants"
+    ]
+  },
+  {
+    "categoryName": "Liste de nettoyage approfondi de la salle de bains",
+    "tasks": [
+      "Frotter et désinfecter la baignoire et la douche",
+      "Nettoyer les joints et les carreaux",
+      "Polir les robinets et les équipements",
+      "Éliminer les résidus de savon et les taches d'eau dure",
+      "Organiser et désencombrer les armoires de salle de bains"
+    ]
+  },
+  {
+    "categoryName": "Liste de nettoyage du week-end",
+    "tasks": [
+      "Aspirer ou balayer tous les sols",
+      "Poussiérer les meubles et les surfaces",
+      "Nettoyer les fenêtres et les miroirs",
+      "Essuyer les appareils de cuisine",
+      "Changer les draps et les taies d'oreiller",
+      "Faire la lessive"
+    ]
+  }
+]

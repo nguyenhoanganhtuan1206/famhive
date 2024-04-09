@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FamHive - Remind Overdue Tasks</title>
+  <style>
+    /* Add your custom styles here */
+    /* This is just an example */
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #333;
+      padding: 20px;
+      background: #fff;
+    }
+    .container {
+      border: 1px solid #DBE0DF;
+      border-radius: 40px;
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 40px;
+      background: #fff;
+      box-shadow: 0 0 20px rgba(218, 218, 218, 0.25);
+    }
+    .logo {
+      display: block;
+      width: 52px;
+      min-width: 52px;
+      height: 52px;
+    }
+    .header {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-bottom: 30px;
+    }
+    .header .line {
+      height: 52px;
+      width: 3px;
+      margin: 0 20px;
+      background: #DBE0DF;
+    }
+    .header .title {
+      font-size: 20px;
+      font-weight: 900;
+      color: #666666;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #7CBDAE;
+      color: #fff !important;
+      padding: 5px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      text-align: center;
+    }
+    .btn:hover {
+      background-color: #548075;
+      color: #E6E6E6 !important;
+    }
+    .overdue-tasks .item {
+      margin-top: 8px;
+      height: 40px;
+      padding: 8px 12px;
+      background-color: #F0F2F1;
+    }
+    .overdue-tasks .item .text {
+      font-weight: bold;
+      font-size: 14px;
+    }
+    .overdue-tasks .item .des {
+      margin-top: 2px;
+      font-size: 12px;
+    }
+    .overdue-tasks .item .date {
+      color: #EB5757;
+    }
+    .remaining {
+      margin-top: 10px;
+      font-weight: bold;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <img class="logo" src="{{LOGO_URL}}" alt="FamHive Logo">
+    <div class="line"></div>
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center" class="title">
+          FamHive - Overdue Tasks
+        </td>
+      </tr>
+    </table>
+  </div>
+  <p>Dear {{fullName}},</p>
+  <p>This is a friendly reminder regarding the following tasks that are currently overdue:</p>
+
+  <div class="overdue-tasks">
+    {{#each overdueTasks}}
+      <div class="item">
+        <div class="text">{{this.text}}</div>
+        <div class="des">{{this.assignee}} - <span class="date">{{this.dueDate}} (Overdue)</span></div>
+      </div>
+    {{/each}}
+    {{#if remainingOverdueTask}}
+      <div class="remaining">...Remaining {{remainingOverdueTask}} overdue tasks</div>
+    {{/if}}
+  </div>
+  <p><a class="btn" href="{{APPLE_STORE_LINK}}">Open Your Overdue Tasks</a></p>
+  <p>Best regards,<br>The FamHive Team</p>
+</div>
+</body>
+</html>

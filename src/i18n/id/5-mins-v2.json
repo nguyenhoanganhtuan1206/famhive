@@ -1,0 +1,975 @@
+[
+    {
+        "specialCategoryName": "Daftar Bersih Kamar",
+        "categories": [
+            {
+                "categoryName": "Membersihkan Kamar Tidur",
+                "tasks": [
+                    {
+                        "text": "Cuci bantal",
+                        "award": 3
+                    },
+                    {
+                        "text": "Cuci selimut",
+                        "award": 3
+                    },
+                    {
+                        "text": "Ganti seprai",
+                        "award": 1
+                    },
+                    {
+                        "text": "Bersihkan perabot dan peralatan",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vakum atau sapu lantai",
+                        "award": 5
+                    },
+                    {
+                        "text": "Cuci jendela dan tirai atau gorden",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan cermin dan kaca",
+                        "award": 3
+                    },
+                    {
+                        "text": "Rapihkan meja rias dan meja samping",
+                        "award": 3
+                    },
+                    {
+                        "text": "Simpan pakaian kotor/bersih",
+                        "award": 2
+                    },
+                    {
+                        "text": "Kosongkan dan ganti tempat sampah",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan kipas langit-langit & lampu",
+                        "award": 5
+                    },
+                    {
+                        "text": "Bersihkan televisi",
+                        "award": 2
+                    },
+                    {
+                        "text": "Pewangi kamar",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Membersihkan Kamar Anak",
+                "tasks": [
+                    {
+                        "text": "Ganti seprai dan sarung bantal",
+                        "award": 2
+                    },
+                    {
+                        "text": "Sapu, pel, atau vakum lantai",
+                        "award": 5
+                    },
+                    {
+                        "text": "Rapihkan lemari",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan di bawah tempat tidur",
+                        "award": 1
+                    },
+                    {
+                        "text": "Bersihkan cermin",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lap mebel dan permukaan",
+                        "award": 2
+                    },
+                    {
+                        "text": "Lap lampu",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lap tirai/debu gorden",
+                        "award": 3
+                    },
+                    {
+                        "text": "Goyangkan karpet dan selimut",
+                        "award": 2
+                    },
+                    {
+                        "text": "Periksa dan bersihkan kipas langit-langit",
+                        "award": 5
+                    },
+                    {
+                        "text": "Periksa dan bersihkan filter AC",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sterilkan atau cuci mainan",
+                        "award": 4
+                    },
+                    {
+                        "text": "Kosongkan dan ganti tempat sampah",
+                        "award": 4
+                    },
+                    {
+                        "text": "Pewangi kamar",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Membersihkan Kamar Mandi",
+                "tasks": [
+                    {
+                        "text": "Bersihkan permukaan",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan cermin dan kaca",
+                        "award": 3
+                    },
+                    {
+                        "text": "Gosok toilet",
+                        "award": 5
+                    },
+                    {
+                        "text": "Gosok wastafel",
+                        "award": 4
+                    },
+                    {
+                        "text": "Gosok shower/bak mandi",
+                        "award": 3
+                    },
+                    {
+                        "text": "Kosongkan dan ganti tempat sampah",
+                        "award": 4
+                    },
+                    {
+                        "text": "Ganti handuk",
+                        "award": 1
+                    },
+                    {
+                        "text": "Bersihkan pintu",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan jendela",
+                        "award": 1
+                    },
+                    {
+                        "text": "Bersihkan mesin cuci",
+                        "award": 3
+                    },
+                    {
+                        "text": "Pel lantai",
+                        "award": 5
+                    },
+                    {
+                        "text": "Bersihkan kipas langit-langit & lampu",
+                        "award": 5
+                    },
+                    {
+                        "text": "Isi ulang persediaan",
+                        "award": 2
+                    },
+                    {
+                        "text": "Pewangi kamar",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Membersihkan Toilet",
+                "tasks": [
+                    {
+                        "text": "Bersihkan toilet",
+                        "award": 5
+                    },
+                    {
+                        "text": "Bersihkan cermin",
+                        "award": 3
+                    },
+                    {
+                        "text": "Rapihkan laci",
+                        "award": 1
+                    },
+                    {
+                        "text": "Vakum lantai",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan pintu",
+                        "award": 1
+                    },
+                    {
+                        "text": "Bersihkan jendela",
+                        "award": 1
+                    },
+                    {
+                        "text": "Debu permukaan",
+                        "award": 2
+                    },
+                    {
+                        "text": "Cuci tirai",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan kipas langit-langit & lampu",
+                        "award": 5
+                    },
+                    {
+                        "text": "Kosongkan dan ganti tempat sampah",
+                        "award": 4
+                    },
+                    {
+                        "text": "Pewangi kamar",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Membersihkan Ruang Dapur",
+                "tasks": [
+                    {
+                        "text": "Bersihkan permukaan dan wastafel",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan kulkas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan freezer",
+                        "award": 2
+                    },
+                    {
+                        "text": "Cuci piring atau muat mesin pencuci piring",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lap meja dapur",
+                        "award": 3
+                    },
+                    {
+                        "text": "Kosongkan dan bersihkan tempat sampah",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sapu atau vakum, lalu pel lantai",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lap pintu dan pegangan lemari",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan wastafel dan keran",
+                        "award": 3
+                    },
+                    {
+                        "text": "Rapihkan laci dan tempat penyimpanan",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan microwave",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan mesin pencuci dishing",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan pemanggang roti",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan microwave",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan mesin kopi",
+                        "award": 3
+                    },
+                    {
+                        "text": "Periksa dan ganti pengharum udara",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Membersihkan Kantor",
+                "tasks": [
+                    {
+                        "text": "Rapihkan meja kerja",
+                        "award": 2
+                    },
+                    {
+                        "text": "Rapihkan dan organisir laci meja kerja",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan PC",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organisir rak buku",
+                        "award": 3
+                    },
+                    {
+                        "text": "Organisir rak",
+                        "award": 3
+                    },
+                    {
+                        "text": "Debu permukaan",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan jendela",
+                        "award": 1
+                    },
+                    {
+                        "text": "Bersihkan pintu",
+                        "award": 1
+                    },
+                    {
+                        "text": "Cuci tirai",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sapu & pel lantai",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vakum lantai",
+                        "award": 4
+                    },
+                    {
+                        "text": "Debu kipas langit-langit & lampu",
+                        "award": 5
+                    },
+                    {
+                        "text": "Kosongkan tempat sampah dan ganti liner",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lap sakelar lampu dan stop kontak listrik",
+                        "award": 4
+                    },
+                    {
+                        "text": "Organisir berkas dan persediaan",
+                        "award": 4
+                    },
+                    {
+                        "text": "Debu dan disinfeksi area yang sering disentuh",
+                        "award": 5
+                    },
+                    {
+                        "text": "Periksa dan ganti pengharum udara",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Membersihkan Ruang Tamu",
+                "tasks": [
+                    {
+                        "text": "Debu dan bersihkan permukaan",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vakum karpet",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sapu lantai",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lap layar TV, remote control",
+                        "award": 5
+                    },
+                    {
+                        "text": "Bersihkan jendela dan cermin",
+                        "award": 3
+                    },
+                    {
+                        "text": "Debu dan lap sofa, kursi, dan meja",
+                        "award": 5
+                    },
+                    {
+                        "text": "Kosongkan tempat sampah dan ganti liner",
+                        "award": 4
+                    },
+                    {
+                        "text": "Debu kipas langit-langit & lampu",
+                        "award": 5
+                    },
+                    {
+                        "text": "Rapihkan sofa",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan sofa",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan di bawah sofa",
+                        "award": 2
+                    },
+                    {
+                        "text": "Organisir rak",
+                        "award": 3
+                    },
+                    {
+                        "text": "Cuci tirai",
+                        "award": 3
+                    },
+                    {
+                        "text": "Periksa dan ganti pengharum udara",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Membersihkan Ruang Cuci",
+                "tasks": [
+                    {
+                        "text": "Rapihkan rak",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan mesin cuci",
+                        "award": 3
+                    },
+                    {
+                        "text": "Debu dan bersihkan permukaan",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan jendela",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan pintu",
+                        "award": 2
+                    },
+                    {
+                        "text": "Cuci tirai",
+                        "award": 3
+                    },
+                    {
+                        "text": "Sapu & pel lantai",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vakum lantai",
+                        "award": 4
+                    },
+                    {
+                        "text": "Kosongkan tempat sampah dan ganti liner",
+                        "award": 4
+                    },
+                    {
+                        "text": "Organisir deterjen cucian, pelembut kain, dan keranjang cucian",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan penyaring debu pada mesin pengering dan ventilasi",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vakum di belakang dan di bawah peralatan elektronik",
+                        "award": 3
+                    },
+                    {
+                        "text": "Periksa dan ganti pengharum udara",
+                        "award": 2
+                    }
+                ]
+            },
+            {
+                "categoryName": "Membersihkan Garasi",
+                "tasks": [
+                    {
+                        "text": "Debu rak, permukaan, dan barang-barang yang terpapar",
+                        "award": 4
+                    },
+                    {
+                        "text": "Urutkan barang ke dalam tumpukan yang ingin disimpan, didonasikan, atau dibuang",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sapu & pel lantai",
+                        "award": 5
+                    },
+                    {
+                        "text": "Lap rak",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan mobil",
+                        "award": 5
+                    },
+                    {
+                        "text": "Vakum mobil",
+                        "award": 4
+                    },
+                    {
+                        "text": "Kosongkan tempat sampah dan ganti liner",
+                        "award": 4
+                    },
+                    {
+                        "text": "Periksa dan bersihkan alat-alat dan peralatan",
+                        "award": 3
+                    },
+                    {
+                        "text": "Runcingkan atau berikan pelumas pada alat-alat",
+                        "award": 2
+                    },
+                    {
+                        "text": "Susun ulang dan organisir barang-barang",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Membersihkan Taman",
+                "tasks": [
+                    {
+                        "text": "Sapu teras atau halaman",
+                        "award": 4
+                    },
+                    {
+                        "text": "Gunting rumput",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan meja luar",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan kursi luar",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan pemanggang",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan pagar",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan tumpukan dedaunan, daun, dan rumput liar dari tempat tidur taman",
+                        "award": 4
+                    },
+                    {
+                        "text": "Potong dan rapihkan tanaman",
+                        "award": 5
+                    },
+                    {
+                        "text": "Kumpulkan dan buang sampah taman",
+                        "award": 5
+                    },
+                    {
+                        "text": "Tambahkan serbuk kayu atau kompos untuk memperbaiki tanah",
+                        "award": 5
+                    },
+                    {
+                        "text": "Siram tanaman",
+                        "award": 5
+                    },
+                    {
+                        "text": "Periksa adanya hama dan penyakit",
+                        "award": 5
+                    },
+                    {
+                        "text": "Tanam tanaman baru",
+                        "award": 5
+                    },
+                    {
+                        "text": "Organisir dan bersihkan alat-alat kebun",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Pembersihan Musiman",
+        "categories": [
+            {
+                "categoryName": "Daftar periksa pembersihan musim panas",
+                "tasks": [
+                    {
+                        "text": "Bersihkan debu di sudut-sudut dan tepian",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan bagian atas pintu dari debu",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan perlengkapan lampu",
+                        "award": 3
+                    },
+                    {
+                        "text": "Membersihkan karpet secara menyeluruh",
+                        "award": 3
+                    },
+                    {
+                        "text": "Cuci karpet kecil",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan di bawah peralatan rumah tangga",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan dinding dan sentuh cat",
+                        "award": 5
+                    },
+                    {
+                        "text": "Cuci/lap pintu",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lap pegangan pintu, sakelar, dan pelat sakelar",
+                        "award": 2
+                    },
+                    {
+                        "text": "Vakum atau gulirkan penggulung kain pada lampu gantung",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan perabotan luar ruangan",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Berikut adalah daftar periksa untuk pembersihan musim gugur",
+                "tasks": [
+                    {
+                        "text": "Periksa/d Bersihkan saluran air hujan",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan teras/halaman",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan halaman",
+                        "award": 4
+                    },
+                    {
+                        "text": "Sapu/vakum garasi",
+                        "award": 2
+                    },
+                    {
+                        "text": "Periksa dan bersihkan area luar",
+                        "award": 4
+                    },
+                    {
+                        "text": "Cuci tirai/penutup jendela",
+                        "award": 3
+                    },
+                    {
+                        "text": "Cuci selimut dan bantal hias",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan lemari",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Berikut adalah daftar pembersihan musim dingin",
+                "tasks": [
+                    {
+                        "text": "Bersihkan dan debu lampu dan kipas langit-langit",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan dan atur garasi atau area penyimpanan",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan dan poles furnitur kayu",
+                        "award": 5
+                    },
+                    {
+                        "text": "Sapu dan pel lantai",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lakukan pembersihan mendalam pada karpet dan permadani",
+                        "award": 3
+                    },
+                    {
+                        "text": "Periksa dan bersihkan isolasi di sekitar pintu dan jendela",
+                        "award": 2
+                    },
+                    {
+                        "text": "Cuci dan sterilkan seprai dan bantal",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Checklist Pembersihan Musim Semi",
+                "tasks": [
+                    {
+                        "text": "Bersihkan dan cuci jendela serta ambang jendela",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan karpet dan permadani secara mendalam",
+                        "award": 2
+                    },
+                    {
+                        "text": "Susun dan bersihkan lemari",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan dan balik kasur",
+                        "award": 4
+                    },
+                    {
+                        "text": "Lap dinding dan alas dinding",
+                        "award": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Detoks Digital",
+        "categories": [
+            {
+                "categoryName": "Detoks digital",
+                "tasks": [
+                    {
+                        "text": "Berhenti mengikuti akun di Instagram",
+                        "award": 1
+                    },
+                    {
+                        "text": "Menghapus foto",
+                        "award": 2
+                    },
+                    {
+                        "text": "Batalkan pertemanan dengan orang di Facebook",
+                        "award": 3
+                    },
+                    {
+                        "text": "Ganti ponsel Anda dari tempat tidur",
+                        "award": 4
+                    },
+                    {
+                        "text": "Matikan notifikasi pada hari libur Anda berikutnya",
+                        "award": 3
+                    },
+                    {
+                        "text": "Tidak ada media sosial selama sehari",
+                        "award": 5
+                    },
+                    {
+                        "text": "Jangan menonton TV sepanjang hari",
+                        "award": 4
+                    },
+                    {
+                        "text": "Tutup semua tab yang terbuka di ponsel Anda",
+                        "award": 2
+                    },
+                    {
+                        "text": "Jangan melihat ponsel Anda dalam waktu satu jam setelah bangun tidur",
+                        "award": 4
+                    },
+                    {
+                        "text": "Jangan menggunakan perangkat digital saat makan",
+                        "award": 4
+                    }
+                ]
+            },
+            {
+                "categoryName": "Detoksifikasi desktop",
+                "tasks": [
+                    {
+                        "text": "Rapikan desktop Anda",
+                        "award": 3
+                    },
+                    {
+                        "text": "Atur folder di desktop Anda",
+                        "award": 3
+                    },
+                    {
+                        "text": "Batasan Tab Browser",
+                        "award": 4
+                    },
+                    {
+                        "text": "Batasi Akses ke Media Sosial",
+                        "award": 5
+                    },
+                    {
+                        "text": "Log Out atau Matikan",
+                        "award": 1
+                    },
+                    {
+                        "text": "Bersihkan Taskbar Anda",
+                        "award": 2
+                    },
+                    {
+                        "text": "Atur Jam Kerja yang Jelas",
+                        "award": 2
+                    },
+                    {
+                        "text": "Matikan Pemberitahuan",
+                        "award": 4
+                    },
+                    {
+                        "text": "Gunakan Wallpaper Minimalis",
+                        "award": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "specialCategoryName": "Perbaikan 5 menit",
+        "categories": [
+            {
+                "categoryName": "Checklist Rutinitas Malam",
+                "tasks": [
+                    {
+                        "text": "Cuci piring atau masukkan ke dalam mesin pencuci piring",
+                        "award": 2
+                    },
+                    {
+                        "text": "Siapkan bekal untuk keesokan harinya",
+                        "award": 3
+                    },
+                    {
+                        "text": "Siapkan pakaian untuk pagi hari",
+                        "award": 2
+                    },
+                    {
+                        "text": "Bersihkan permukaan dan peralatan dapur",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersantai sebelum tidur",
+                        "award": 1
+                    }
+                ]
+            },
+            {
+                "categoryName": "Checklist Pembersihan Ramah Hewan Peliharaan",
+                "tasks": [
+                    {
+                        "text": "Sikat dan perawatan hewan peliharaan, hilangkan bulu rontok dan kusut",
+                        "award": 3
+                    },
+                    {
+                        "text": "Vakum bulu hewan dari perabot, menggunakan alat penghilang bulu hewan",
+                        "award": 3
+                    },
+                    {
+                        "text": "Segarkan mangkuk air dan kotak pasir, isi ulang dengan air bersih dan pasir",
+                        "award": 2
+                    },
+                    {
+                        "text": "Rapihkan tempat tidur dan mainan hewan peliharaan, pastikan area hewan peliharaan rapi",
+                        "award": 3
+                    },
+                    {
+                        "text": "Ajak anjing berjalan atau bermain",
+                        "award": 3
+                    },
+                    {
+                        "text": "Periksa dan isi ulang makanan dan perlengkapan hewan peliharaan",
+                        "award": 3
+                    }
+                ]
+            },
+            {
+                "categoryName": "Daftar Periksa Oasis Luar Ruangan",
+                "tasks": [
+                    {
+                        "text": "Sapu teras depan dan jalan setapak, bersihkan kotoran dan puing",
+                        "award": 3
+                    },
+                    {
+                        "text": "Bersihkan tempat duduk luar ruangan, susun bantal dan bantal",
+                        "award": 3
+                    },
+                    {
+                        "text": "Siram dan rawat tanaman, periksa daun layu atau tanah kering",
+                        "award": 4
+                    },
+                    {
+                        "text": "Goyangkan tikar luar ruangan, hilangkan kotoran dan debu",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Checklist Persiapan Makanan Mingguan",
+                "tasks": [
+                    {
+                        "text": "Rencanakan makanan untuk minggu ini",
+                        "award": 2
+                    },
+                    {
+                        "text": "Buat daftar belanjaan",
+                        "award": 2
+                    },
+                    {
+                        "text": "Belanja bahan makanan",
+                        "award": 3
+                    },
+                    {
+                        "text": "Persiapkan dan bagi bahan-bahan",
+                        "award": 2
+                    },
+                    {
+                        "text": "Masak dan simpan makanan dalam wadah",
+                        "award": 5
+                    }
+                ]
+            },
+            {
+                "categoryName": "Checklist Pembersihan Akhir Pekan",
+                "tasks": [
+                    {
+                        "text": "Vakum atau sapu semua lantai",
+                        "award": 5
+                    },
+                    {
+                        "text": "Bersihkan perabot dan permukaan",
+                        "award": 4
+                    },
+                    {
+                        "text": "Bersihkan jendela dan cermin",
+                        "award": 3
+                    },
+                    {
+                        "text": "Lap peralatan dapur",
+                        "award": 3
+                    },
+                    {
+                        "text": "Ganti seprai dan sarung bantal",
+                        "award": 2
+                    },
+                    {
+                        "text": "Mencuci pakaian",
+                        "award": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

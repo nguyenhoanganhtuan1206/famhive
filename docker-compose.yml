@@ -1,0 +1,49 @@
+version: "3"
+services:
+  app:
+    env_file:
+      - .env
+    image: ${ECR_IMAGE_NAME}
+    container_name: family_backend
+    restart: always
+    ports:
+      - "$PORT:$PORT"
+    depends_on:
+      - family_database
+    volumes:
+      - ~/family-backend-v2-logs:/usr/src/app/logs
+    links:
+      - family_database
+    deploy:
+      resources:
+        limits:
+          cpus: '0.75'
+          memory: 1GB
+        reservations:
+          cpus: '0.25'
+          memory: 256M
+  family_database:
+    image: postgres
+    restart: always
+    container_name: family_database
+    environment:
+      TZ: "GMT"
+      PGTZ: "GMT"
+    ports:
+      - "5434:5432"
+    volumes:
+      - famhive_postgres:/var/lib/postgresql/data
+    env_file:
+      - .env
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 512M
+        reservations:
+          cpus: '0.25'
+          memory: 128M
+
+volumes:
+  famhive_postgres:
+    driver: local

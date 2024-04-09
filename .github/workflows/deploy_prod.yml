@@ -1,0 +1,74 @@
+name: deploy production
+
+on:
+  workflow_dispatch:
+
+jobs:
+  buildAndPush:
+    runs-on: [self-hosted, owt]
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      AWS_ACCOUNT_ID: ${{ secrets.AWS_ACCOUNT_ID }}
+      AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
+      ECR_REPOSITORY_NAME: ${{ secrets.ECR_REPOSITORY_NAME }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+            aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+            aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+            aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+
+      - name: Add permission for Docker
+        run: |
+          sudo chmod 666 /var/run/docker.sock
+
+      - name: Login to Amazon ECR
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Build and Push the Image to ECR
+        id: build-image
+        env:
+            IMAGE_TAG: ${{ github.run_id }}
+        run: |
+            docker build -t $ECR_REPOSITORY_NAME:$IMAGE_TAG .
+            docker tag $ECR_REPOSITORY_NAME:$IMAGE_TAG $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$ECR_REPOSITORY_NAME:$IMAGE_TAG
+            docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$ECR_REPOSITORY_NAME:$IMAGE_TAG
+
+  deployAnsible:
+    runs-on: self-hosted
+    needs: buildAndPush
+    if: success()
+    env:
+      SSH_USERNAME: ${{ secrets.SSH_USERNAME_PROD }}
+      SSH_KEYPEM: ${{ secrets.SSH_KEYPEM_PROD }}
+      REPO: ${{ github.repository }}
+      REPO_NAME: ${{ github.event.repository.name }}
+      BRANCH_NAME: ${{ github.ref_name }}
+      AWS_ACCOUNT_ID: ${{ secrets.AWS_ACCOUNT_ID }}
+      AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      ECR_REPOSITORY_NAME: ${{ secrets.ECR_REPOSITORY_NAME }}
+      IMAGE_TAG: ${{ github.run_id }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Create key pem
+        run: |
+          echo "$SSH_KEYPEM" >> .github/ansible-prod/ssh_key.pem
+          sudo chmod 400 .github/ansible-prod/ssh_key.pem
+          sudo chown $(whoami):$(whoami) .github/ansible-prod/ssh_key.pem
+          ls -la .github/ansible-prod/
+      - name: Install Ansible
+        run: |
+          sudo apt-add-repository ppa:ansible/ansible
+          sudo apt update
+          sudo apt install ansible -y
+      - name: Deploy Ansible
+        run: |
+          ansible-playbook -i .github/ansible-prod/hosts.yml -v .github/ansible-prod/playbook.yml

@@ -1,0 +1,101 @@
+[
+  {
+    "categoryName": "Lista de tareas nocturnas",
+    "tasks": [
+      "Lavar los platos o cargar el lavavajillas",
+      "Preparar el almuerzo para el día siguiente",
+      "Dejar listas las prendas para la mañana",
+      "Limpiar las encimeras y los electrodomésticos de la cocina",
+      "Relajarse y descansar antes de acostarse"
+    ]
+  },
+  {
+    "categoryName": "Lista de limpieza de primavera",
+    "tasks": [
+      "Limpiar y lavar las ventanas y los alféizares de las ventanas",
+      "Limpiar en profundidad las alfombras y las moquetas",
+      "Organizar y despejar los armarios",
+      "Limpiar y voltear los colchones",
+      "Limpiar las paredes y los zócalos"
+    ]
+  },
+  {
+    "categoryName": "Lista de limpieza rápida del baño",
+    "tasks": [
+      "Frotar y desinfectar la taza del inodoro, el asiento y el depósito",
+      "Limpiar el lavamanos y la encimera, quitar las manchas de pasta dental y las marcas de agua",
+      "Limpiar las paredes de la ducha, el vidrio y la alcachofa de la ducha",
+      "Barrer y trapear el suelo del baño, prestando atención a las esquinas y los bordes",
+      "Cambiar las toallas de mano y rellenar los dispensadores de jabón"
+    ]
+  },
+  {
+    "categoryName": "Renovación de electrodomésticos de cocina",
+    "tasks": [
+      "Limpiar el microondas por dentro y por fuera, eliminar salpicaduras",
+      "Limpiar la encimera y la puerta del horno para eliminar grasa y derrames",
+      "Vaciar y desinfectar el refrigerador, deshacerse de los productos caducados",
+      "Poner en marcha el lavavajillas o lavar los platos, asegurándose de que el fregadero esté libre de objetos sucios"
+    ]
+  },
+  {
+    "categoryName": "Rescate de la habitación de los niños",
+    "tasks": [
+      "Hacer las camas y sacudir las almohadas, disponerlas ordenadamente",
+      "Organizar los juguetes y los libros en los estantes, agrupar objetos similares",
+      "Despejar las superficies y los escritorios, colocar los objetos en sus lugares designados",
+      "Vaciar los botes de basura y los recipientes de reciclaje, reemplazar las bolsas si es necesario"
+    ]
+  },
+  {
+    "categoryName": "Lista de limpieza para mascotas",
+    "tasks": [
+      "Cepillar y cuidar a las mascotas, eliminar el pelo suelto y los enredos",
+      "Aspirar el pelo de las mascotas de los muebles, utilizando un accesorio para pelo de mascotas",
+      "Refrescar los recipientes de agua y las cajas de arena, reemplazar con agua limpia y arena",
+      "Ordenar la ropa de cama y los juguetes para mascotas, asegurándose de que el área para mascotas esté ordenada",
+      "Sacar a pasear a los perros o jugar con ellos",
+      "Revisar y reponer la comida y los suministros para mascotas"
+    ]
+  },
+  {
+    "categoryName": "Lista de control del oasis exterior",
+    "tasks": [
+      "Barrer el porche delantero y el camino, eliminar la suciedad y los escombros",
+      "Limpiar el desorden de los asientos exteriores, colocar cojines y almohadas",
+      "Regar y cuidar las plantas, revisar si hay hojas marchitas o tierra seca",
+      "Sacudir las alfombras exteriores, eliminar la suciedad y el polvo"
+    ]
+  },
+  {
+    "categoryName": "Lista de preparación de comidas semanales",
+    "tasks": [
+      "Planificar las comidas para la semana",
+      "Crear una lista de compras",
+      "Hacer las compras",
+      "Preparar y porcionar los ingredientes",
+      "Cocinar y almacenar las comidas en recipientes"
+    ]
+  },
+  {
+    "categoryName": "Lista de limpieza profunda del baño",
+    "tasks": [
+      "Frotar y desinfectar la bañera y la ducha",
+      "Limpiar las juntas y los azulejos",
+      "Pulir los grifos y los accesorios",
+      "Eliminar la acumulación de jabón y las manchas de agua dura",
+      "Organizar y despejar los armarios del baño"
+    ]
+  },
+  {
+    "categoryName": "Lista de limpieza de fin de semana",
+    "tasks": [
+      "Aspirar o barrer todos los pisos",
+      "Quitar el polvo de los muebles y las superficies",
+      "Limpiar las ventanas y los espejos",
+      "Limpiar los electro",
+      "Cambiar sábanas y fundas de almohada",
+      "Hacer la colada"
+    ]
+  }
+]
